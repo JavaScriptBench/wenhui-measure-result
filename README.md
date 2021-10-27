@@ -13,3 +13,8 @@ Node:
 
 
 OS
+```
+(1) Ubuntu 18.04 LTS with Linux Kernel 5.4.0-87-generic, 
+
+(2) Ubuntu 20.04 LTS with Linux Kernel 5.11.0-27-generic.
+```
