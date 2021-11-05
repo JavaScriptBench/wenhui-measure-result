@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , d8 , testcase , spectral-norm , package , 273.155670166015625000, core , 169.319198608398437500, gpu ,  0 , dram ,  37.912887573242187500, VMPEAK ,    8236 , time , 7191 
+compiler , d8 , testcase , spectral-norm , package , 266.175430297851562500, core , 168.451049804687500000, gpu ,  0 , dram ,  35.909469604492187500, VMPEAK ,    8236 , time , 6775 
+compiler , d8 , testcase , spectral-norm , package , 265.693862915039062500, core , 168.074050903320312500, gpu ,  0 , dram ,  35.954055786132812500, VMPEAK ,    8236 , time , 6765 
+compiler , d8 , testcase , spectral-norm , package , 266.432540893554687500, core , 168.734542846679687500, gpu ,  0 , dram ,  35.567855834960937500, VMPEAK ,    8236 , time , 6768 
+compiler , d8 , testcase , spectral-norm , package , 266.726394653320312500, core , 168.990814208984375000, gpu ,  0 , dram ,  35.895965576171875000, VMPEAK ,    8236 , time , 6766 
+compiler , d8 , testcase , spectral-norm , package , 267.150314331054687500, core , 169.375900268554687500, gpu ,  0 , dram ,  35.786621093750000000, VMPEAK ,    8236 , time , 6765 
+compiler , d8 , testcase , spectral-norm , package , 267.864730834960937500, core , 169.911544799804687500, gpu ,  0 , dram ,  35.747207641601562500, VMPEAK ,    8236 , time , 6771 
+compiler , d8 , testcase , spectral-norm , package , 267.880065917968750000, core , 169.983245849609375000, gpu ,  0 , dram ,  35.499572753906250000, VMPEAK ,    8236 , time , 6763 
+compiler , d8 , testcase , spectral-norm , package , 267.583435058593750000, core , 169.842971801757812500, gpu ,  0 , dram ,  35.964935302734375000, VMPEAK ,    8236 , time , 6749 
+compiler , d8 , testcase , spectral-norm , package , 273.099151611328125000, core , 173.342849731445312500, gpu ,  0 , dram ,  36.999557495117187500, VMPEAK ,    8236 , time , 6886 

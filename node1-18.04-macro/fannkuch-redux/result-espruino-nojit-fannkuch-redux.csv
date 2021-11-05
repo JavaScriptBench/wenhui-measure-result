@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , espruino , testcase , fannkuch-redux , package , -60676.232376098632812500, core , 3119.340530395507812500, gpu ,  0 , dram ,  622.427597045898437500, VMPEAK ,    8236 , time , 119652 
+compiler , espruino , testcase , fannkuch-redux , package , 4904.639953613281250000, core , 3166.541503906250000000, gpu ,  0 , dram ,  629.386566162109375000, VMPEAK ,    8236 , time , 119051 
+compiler , espruino , testcase , fannkuch-redux , package , 4957.440093994140625000, core , 3200.214630126953125000, gpu ,  0 , dram ,  635.830993652343750000, VMPEAK ,    8236 , time , 120103 
+compiler , espruino , testcase , fannkuch-redux , package , 4911.310760498046875000, core , 3168.268997192382812500, gpu ,  0 , dram ,  634.547424316406250000, VMPEAK ,    8236 , time , 119052 
+compiler , espruino , testcase , fannkuch-redux , package , 4944.086883544921875000, core , 3187.916549682617187500, gpu ,  0 , dram ,  630.163284301757812500, VMPEAK ,    8236 , time , 119904 
+compiler , espruino , testcase , fannkuch-redux , package , 4982.911392211914062500, core , 3212.157104492187500000, gpu ,  0 , dram ,  627.800033569335937500, VMPEAK ,    8236 , time , 120855 
+compiler , espruino , testcase , fannkuch-redux , package , 4979.641647338867187500, core , 3210.260131835937500000, gpu ,  0 , dram ,  628.686203002929687500, VMPEAK ,    8236 , time , 120703 
+compiler , espruino , testcase , fannkuch-redux , package , 4985.009597778320312500, core , 3214.120986938476562500, gpu ,  0 , dram ,  631.823745727539062500, VMPEAK ,    8236 , time , 120854 
+compiler , espruino , testcase , fannkuch-redux , package , 4918.476577758789062500, core , 3170.573638916015625000, gpu ,  0 , dram ,  627.413665771484375000, VMPEAK ,    8236 , time , 119208 
+compiler , espruino , testcase , fannkuch-redux , package , 4904.019989013671875000, core , 3163.166030883789062500, gpu ,  0 , dram ,  623.001785278320312500, VMPEAK ,    8236 , time , 118903 

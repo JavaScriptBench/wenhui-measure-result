@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , hermes-gengc , testcase , spectral-norm , package , 7580.794357299804687500, core , 4835.857833862304687500, gpu ,  0 , dram ,  980.183975219726562500, VMPEAK ,    8236 , time , 189506 
+compiler , hermes-gengc , testcase , spectral-norm , package , 7729.401550292968750000, core , 4980.344329833984375000, gpu ,  0 , dram ,  985.456359863281250000, VMPEAK ,    8236 , time , 188824 
+compiler , hermes-gengc , testcase , spectral-norm , package , 7837.753768920898437500, core , -60461.192321777343750000, gpu ,  0 , dram ,  1000.485183715820312500, VMPEAK ,    8236 , time , 189075 
+compiler , hermes-gengc , testcase , spectral-norm , package , 7854.011505126953125000, core , 5078.401184082031250000, gpu ,  0 , dram ,  1012.749099731445312500, VMPEAK ,    8236 , time , 189603 
+compiler , hermes-gengc , testcase , spectral-norm , package , 7846.753723144531250000, core , 5069.293746948242187500, gpu ,  0 , dram ,  1018.528762817382812500, VMPEAK ,    8236 , time , 189612 
+compiler , hermes-gengc , testcase , spectral-norm , package , -57702.368896484375000000, core , 5063.307769775390625000, gpu ,  0 , dram ,  1016.647308349609375000, VMPEAK ,    8236 , time , 189156 
+compiler , hermes-gengc , testcase , spectral-norm , package , 7855.749679565429687500, core , 5076.844299316406250000, gpu ,  0 , dram ,  1008.154403686523437500, VMPEAK ,    8236 , time , 189753 
+compiler , hermes-gengc , testcase , spectral-norm , package , 7840.024261474609375000, core , 5066.119308471679687500, gpu ,  0 , dram ,  999.896301269531250000, VMPEAK ,    8236 , time , 189396 
+compiler , hermes-gengc , testcase , spectral-norm , package , 7878.027755737304687500, core , 5091.992218017578125000, gpu ,  0 , dram ,  1002.740509033203125000, VMPEAK ,    8236 , time , 190237 
+compiler , hermes-gengc , testcase , spectral-norm , package , 7858.426559448242187500, core , 5077.815261840820312500, gpu ,  0 , dram ,  1002.095855712890625000, VMPEAK ,    8236 , time , 189840 
