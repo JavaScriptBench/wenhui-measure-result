@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , rhino-nojit , testcase , n-body , package , 17331.214050292968750000, core , 13142.757827758789062500, gpu ,  0 , dram ,  3196.904296875000000000, VMPEAK ,    8292 , time , 366450 
+compiler , rhino-nojit , testcase , n-body , package , -48224.574508666992187500, core , 13130.392974853515625000, gpu ,  0 , dram ,  3168.006011962890625000, VMPEAK ,    8292 , time , 365280 
+compiler , rhino-nojit , testcase , n-body , package , 17365.367660522460937500, core , 13168.176605224609375000, gpu ,  0 , dram ,  3202.739486694335937500, VMPEAK ,    8292 , time , 366523 
+compiler , rhino-nojit , testcase , n-body , package , 17323.390487670898437500, core , -52395.352432250976562500, gpu ,  0 , dram ,  3187.332138061523437500, VMPEAK ,    8292 , time , 364861 
+compiler , rhino-nojit , testcase , n-body , package , 17525.287048339843750000, core , 13304.896530151367187500, gpu ,  0 , dram ,  3218.201812744140625000, VMPEAK ,    8292 , time , 368352 
+compiler , rhino-nojit , testcase , n-body , package , -48520.631881713867187500, core , 12905.020980834960937500, gpu ,  0 , dram ,  3137.797454833984375000, VMPEAK ,    8292 , time , 359000 
+compiler , rhino-nojit , testcase , n-body , package , 17381.306320190429687500, core , 13190.620361328125000000, gpu ,  0 , dram ,  3197.679885864257812500, VMPEAK ,    8292 , time , 365789 
+compiler , rhino-nojit , testcase , n-body , package , 17343.471038818359375000, core , 13158.607223510742187500, gpu ,  0 , dram ,  3190.251541137695312500, VMPEAK ,    8292 , time , 365276 
+compiler , rhino-nojit , testcase , n-body , package , 17367.075561523437500000, core , -52353.752578735351562500, gpu ,  0 , dram ,  3193.390121459960937500, VMPEAK ,    8292 , time , 365200 
+compiler , rhino-nojit , testcase , n-body , package , -48620.980560302734375000, core , 12840.485809326171875000, gpu ,  0 , dram ,  3105.817138671875000000, VMPEAK ,    8292 , time , 355448 

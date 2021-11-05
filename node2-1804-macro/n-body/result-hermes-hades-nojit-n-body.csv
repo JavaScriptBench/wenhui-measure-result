@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , hermes-hades , testcase , n-body , package , -58079.385925292968750000, core , 5660.132110595703125000, gpu ,  0 , dram ,  1377.761230468750000000, VMPEAK ,    8292 , time , 157469 
+compiler , hermes-hades , testcase , n-body , package , 7510.232147216796875000, core , 5708.306182861328125000, gpu ,  0 , dram ,  1377.711761474609375000, VMPEAK ,    8292 , time , 157480 
+compiler , hermes-hades , testcase , n-body , package , 7520.390716552734375000, core , 5714.861022949218750000, gpu ,  0 , dram ,  1378.585357666015625000, VMPEAK ,    8292 , time , 157583 
+compiler , hermes-hades , testcase , n-body , package , 7499.875106811523437500, core , 5699.071975708007812500, gpu ,  0 , dram ,  1375.144332885742187500, VMPEAK ,    8292 , time , 157146 
+compiler , hermes-hades , testcase , n-body , package , 7514.688644409179687500, core , 5709.799530029296875000, gpu ,  0 , dram ,  1374.331695556640625000, VMPEAK ,    8292 , time , 157475 
+compiler , hermes-hades , testcase , n-body , package , 7519.051208496093750000, core , 5715.544937133789062500, gpu ,  0 , dram ,  1367.807754516601562500, VMPEAK ,    8292 , time , 157447 
+compiler , hermes-hades , testcase , n-body , package , 7519.935028076171875000, core , 5716.094406127929687500, gpu ,  0 , dram ,  1374.422210693359375000, VMPEAK ,    8292 , time , 157490 
+compiler , hermes-hades , testcase , n-body , package , 7525.949432373046875000, core , -59816.245193481445312500, gpu ,  0 , dram ,  1374.830230712890625000, VMPEAK ,    8292 , time , 157755 
+compiler , hermes-hades , testcase , n-body , package , 7490.254043579101562500, core , 5691.976181030273437500, gpu ,  0 , dram ,  1371.790176391601562500, VMPEAK ,    8292 , time , 157083 
+compiler , hermes-hades , testcase , n-body , package , -58024.711273193359375000, core , 5708.832901000976562500, gpu ,  0 , dram ,  1370.547775268554687500, VMPEAK ,    8292 , time , 157396 
