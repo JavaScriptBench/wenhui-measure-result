@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , js-52 , testcase , double-linked-list , package , 1393.820007324218750000, core , 1060.242202758789062500, gpu ,  0 , dram ,  256.262481689453125000, VMPEAK ,    8292 , time , 29320 
+compiler , js-52 , testcase , double-linked-list , package , 1411.977264404296875000, core , 1074.598892211914062500, gpu ,  0 , dram ,  258.952362060546875000, VMPEAK ,    8292 , time , 29618 
+compiler , js-52 , testcase , double-linked-list , package , 1403.907379150390625000, core , 1068.965423583984375000, gpu ,  0 , dram ,  256.938339233398437500, VMPEAK ,    8292 , time , 29369 
+compiler , js-52 , testcase , double-linked-list , package , 1416.968551635742187500, core , 1079.110641479492187500, gpu ,  0 , dram ,  259.060562133789062500, VMPEAK ,    8292 , time , 29600 
+compiler , js-52 , testcase , double-linked-list , package , 1404.729324340820312500, core , 1069.914474487304687500, gpu ,  0 , dram ,  256.371795654296875000, VMPEAK ,    8292 , time , 29318 
+compiler , js-52 , testcase , double-linked-list , package , 1412.080978393554687500, core , 1075.600128173828125000, gpu ,  0 , dram ,  257.697036743164062500, VMPEAK ,    8292 , time , 29461 
+compiler , js-52 , testcase , double-linked-list , package , 1432.448303222656250000, core , 1091.213897705078125000, gpu ,  0 , dram ,  261.245635986328125000, VMPEAK ,    8292 , time , 29879 
+compiler , js-52 , testcase , double-linked-list , package , 1415.509460449218750000, core , 1078.383880615234375000, gpu ,  0 , dram ,  -65277.877578735351562500, VMPEAK ,    8292 , time , 29517 
+compiler , js-52 , testcase , double-linked-list , package , 1418.448120117187500000, core , 1080.200195312500000000, gpu ,  0 , dram ,  258.563720703125000000, VMPEAK ,    8292 , time , 29609 
+compiler , js-52 , testcase , double-linked-list , package , 1422.102233886718750000, core , 1083.222244262695312500, gpu ,  0 , dram ,  258.911087036132812500, VMPEAK ,    8292 , time , 29672 
