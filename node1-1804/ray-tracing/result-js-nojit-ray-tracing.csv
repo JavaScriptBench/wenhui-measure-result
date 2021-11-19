@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , js , testcase , ray-tracing , package , 133.057800292968750000, core , 81.576797485351562500, gpu ,  0 , dram ,  23.616867065429687500, VMPEAK ,    8236 , time , 3513 
+compiler , js , testcase , ray-tracing , package , 132.044509887695312500, core , 84.622177124023437500, gpu ,  0 , dram ,  21.633483886718750000, VMPEAK ,    8236 , time , 3227 
+compiler , js , testcase , ray-tracing , package , 127.222534179687500000, core , 81.470443725585937500, gpu ,  0 , dram ,  21.008255004882812500, VMPEAK ,    8236 , time , 3112 
+compiler , js , testcase , ray-tracing , package , 130.188110351562500000, core , 83.299072265625000000, gpu ,  0 , dram ,  21.149581909179687500, VMPEAK ,    8236 , time , 3188 
+compiler , js , testcase , ray-tracing , package , 126.371047973632812500, core , 80.882644653320312500, gpu ,  0 , dram ,  20.783187866210937500, VMPEAK ,    8236 , time , 3093 
+compiler , js , testcase , ray-tracing , package , 132.372528076171875000, core , 84.657409667968750000, gpu ,  0 , dram ,  21.326858520507812500, VMPEAK ,    8236 , time , 3246 
+compiler , js , testcase , ray-tracing , package , 121.044113159179687500, core , 77.550994873046875000, gpu ,  0 , dram ,  19.751419067382812500, VMPEAK ,    8236 , time , 2957 
+compiler , js , testcase , ray-tracing , package , 118.366012573242187500, core , 75.866485595703125000, gpu ,  0 , dram ,  19.452941894531250000, VMPEAK ,    8236 , time , 2891 
+compiler , js , testcase , ray-tracing , package , 121.714080810546875000, core , 78.033172607421875000, gpu ,  0 , dram ,  19.858383178710937500, VMPEAK ,    8236 , time , 2971 
+compiler , js , testcase , ray-tracing , package , 134.456466674804687500, core , 86.079971313476562500, gpu ,  0 , dram ,  21.632171630859375000, VMPEAK ,    8236 , time , 3292 

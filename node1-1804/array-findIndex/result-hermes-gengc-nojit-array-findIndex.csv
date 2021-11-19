@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , hermes-gengc , testcase , array-findIndex , package , 154.346862792968750000, core , 97.389617919921875000, gpu ,  0 , dram ,  20.288330078125000000, VMPEAK ,    8236 , time , 3950 
+compiler , hermes-gengc , testcase , array-findIndex , package , 154.692169189453125000, core , 98.370773315429687500, gpu ,  0 , dram ,  19.713928222656250000, VMPEAK ,    8236 , time , 3900 
+compiler , hermes-gengc , testcase , array-findIndex , package , 155.206848144531250000, core , 98.786987304687500000, gpu ,  0 , dram ,  19.823913574218750000, VMPEAK ,    8236 , time , 3907 
+compiler , hermes-gengc , testcase , array-findIndex , package , 155.409484863281250000, core , 98.915512084960937500, gpu ,  0 , dram ,  19.889022827148437500, VMPEAK ,    8236 , time , 3910 
+compiler , hermes-gengc , testcase , array-findIndex , package , 155.070007324218750000, core , 98.726699829101562500, gpu ,  0 , dram ,  19.962219238281250000, VMPEAK ,    8236 , time , 3902 
+compiler , hermes-gengc , testcase , array-findIndex , package , 154.772064208984375000, core , 98.424163818359375000, gpu ,  0 , dram ,  19.983642578125000000, VMPEAK ,    8236 , time , 3906 
+compiler , hermes-gengc , testcase , array-findIndex , package , 154.716461181640625000, core , 98.377838134765625000, gpu ,  0 , dram ,  19.939407348632812500, VMPEAK ,    8236 , time , 3907 
+compiler , hermes-gengc , testcase , array-findIndex , package , 154.930206298828125000, core , 98.556610107421875000, gpu ,  0 , dram ,  19.840148925781250000, VMPEAK ,    8236 , time , 3908 
+compiler , hermes-gengc , testcase , array-findIndex , package , 154.787399291992187500, core , 98.474914550781250000, gpu ,  0 , dram ,  19.892776489257812500, VMPEAK ,    8236 , time , 3902 
+compiler , hermes-gengc , testcase , array-findIndex , package , 155.241210937500000000, core , 98.744644165039062500, gpu ,  0 , dram ,  20.040679931640625000, VMPEAK ,    8236 , time , 3914 

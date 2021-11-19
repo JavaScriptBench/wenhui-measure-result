@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , hermes-malloc , testcase , 3d-morph , package , 3182.035476684570312500, core , 2049.534362792968750000, gpu ,  0 , dram ,  406.320587158203125000, VMPEAK ,    8236 , time , 77750 
+compiler , hermes-malloc , testcase , 3d-morph , package , 3205.765060424804687500, core , 2071.398834228515625000, gpu ,  0 , dram ,  407.350326538085937500, VMPEAK ,    8236 , time , 77576 
+compiler , hermes-malloc , testcase , 3d-morph , package , 3256.254211425781250000, core , 2105.404220581054687500, gpu ,  0 , dram ,  413.392135620117187500, VMPEAK ,    8236 , time , 78515 
+compiler , hermes-malloc , testcase , 3d-morph , package , -62287.094314575195312500, core , 2100.721267700195312500, gpu ,  0 , dram ,  411.810180664062500000, VMPEAK ,    8236 , time , 78253 
+compiler , hermes-malloc , testcase , 3d-morph , package , 3235.021194458007812500, core , 2092.732925415039062500, gpu ,  0 , dram ,  408.327209472656250000, VMPEAK ,    8236 , time , 77786 
+compiler , hermes-malloc , testcase , 3d-morph , package , 3221.869918823242187500, core , 2084.382247924804687500, gpu ,  0 , dram ,  407.988143920898437500, VMPEAK ,    8236 , time , 77514 
+compiler , hermes-malloc , testcase , 3d-morph , package , 3229.234741210937500000, core , 2088.596755981445312500, gpu ,  0 , dram ,  407.575424194335937500, VMPEAK ,    8236 , time , 77730 
+compiler , hermes-malloc , testcase , 3d-morph , package , 3227.826782226562500000, core , 2088.702529907226562500, gpu ,  0 , dram ,  407.361373901367187500, VMPEAK ,    8236 , time , 77628 
+compiler , hermes-malloc , testcase , 3d-morph , package , 3221.968612670898437500, core , 2084.404724121093750000, gpu ,  0 , dram ,  408.782623291015625000, VMPEAK ,    8236 , time , 77510 
+compiler , hermes-malloc , testcase , 3d-morph , package , 3227.295471191406250000, core , 2088.034133911132812500, gpu ,  0 , dram ,  407.818862915039062500, VMPEAK ,    8236 , time , 77619 

@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , jerry-6m , testcase , array-find , package , 3.865203857421875000, core , 2.446182250976562500, gpu ,  0 , dram ,  0.523147583007812500, VMPEAK ,    8236 , time , 98 
+compiler , jerry-6m , testcase , array-find , package , 4.191741943359375000, core , 2.437576293945312500, gpu ,  0 , dram ,  0.623352050781250000, VMPEAK ,    8236 , time , 120 
+compiler , jerry-6m , testcase , array-find , package , 5.316055297851562500, core , 1.434677124023437500, gpu ,  0 , dram ,  1.355255126953125000, VMPEAK ,    8236 , time , 269 
+compiler , jerry-6m , testcase , array-find , package , 4.953308105468750000, core , 1.695129394531250000, gpu ,  0 , dram ,  1.164657592773437500, VMPEAK ,    8236 , time , 226 
+compiler , jerry-6m , testcase , array-find , package , 4.025833129882812500, core , 2.547180175781250000, gpu ,  0 , dram ,  0.523544311523437500, VMPEAK ,    8236 , time , 101 
+compiler , jerry-6m , testcase , array-find , package , 3.919570922851562500, core , 2.483016967773437500, gpu ,  0 , dram ,  0.511642456054687500, VMPEAK ,    8236 , time , 99 
+compiler , jerry-6m , testcase , array-find , package , 4.076766967773437500, core , 2.581375122070312500, gpu ,  0 , dram ,  0.523498535156250000, VMPEAK ,    8236 , time , 103 
+compiler , jerry-6m , testcase , array-find , package , 4.117630004882812500, core , 2.607528686523437500, gpu ,  0 , dram ,  0.528579711914062500, VMPEAK ,    8236 , time , 103 
+compiler , jerry-6m , testcase , array-find , package , 3.937789916992187500, core , 2.499572753906250000, gpu ,  0 , dram ,  0.506652832031250000, VMPEAK ,    8236 , time , 99 
+compiler , jerry-6m , testcase , array-find , package , 3.894165039062500000, core , 2.470581054687500000, gpu ,  0 , dram ,  0.504180908203125000, VMPEAK ,    8236 , time , 97 

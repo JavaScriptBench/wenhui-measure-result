@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , rhino-nojit , testcase , ray-tracing , package , 2709.673675537109375000, core , 1719.223907470703125000, gpu ,  0 , dram ,  406.538848876953125000, VMPEAK ,    8236 , time , 68202 
+compiler , rhino-nojit , testcase , ray-tracing , package , 2738.700698852539062500, core , 1749.663909912109375000, gpu ,  0 , dram ,  403.864013671875000000, VMPEAK ,    8236 , time , 67989 
+compiler , rhino-nojit , testcase , ray-tracing , package , 2768.036926269531250000, core , 1775.083694458007812500, gpu ,  0 , dram ,  411.864410400390625000, VMPEAK ,    8236 , time , 68061 
+compiler , rhino-nojit , testcase , ray-tracing , package , 2749.686752319335937500, core , 1762.041366577148437500, gpu ,  0 , dram ,  411.950149536132812500, VMPEAK ,    8236 , time , 67546 
+compiler , rhino-nojit , testcase , ray-tracing , package , 2774.628158569335937500, core , 1779.354232788085937500, gpu ,  0 , dram ,  416.998748779296875000, VMPEAK ,    8236 , time , 67944 
+compiler , rhino-nojit , testcase , ray-tracing , package , 2798.981826782226562500, core , -63739.199523925781250000, gpu ,  0 , dram ,  418.253936767578125000, VMPEAK ,    8236 , time , 68260 
+compiler , rhino-nojit , testcase , ray-tracing , package , 2781.812332153320312500, core , 1787.519027709960937500, gpu ,  0 , dram ,  413.009140014648437500, VMPEAK ,    8236 , time , 67700 
+compiler , rhino-nojit , testcase , ray-tracing , package , 2775.201019287109375000, core , 1783.622253417968750000, gpu ,  0 , dram ,  406.885452270507812500, VMPEAK ,    8236 , time , 67480 
+compiler , rhino-nojit , testcase , ray-tracing , package , 2797.644073486328125000, core , 1797.911392211914062500, gpu ,  0 , dram ,  412.182540893554687500, VMPEAK ,    8236 , time , 68027 
+compiler , rhino-nojit , testcase , ray-tracing , package , -62726.964630126953125000, core , 1805.444046020507812500, gpu ,  0 , dram ,  412.566436767578125000, VMPEAK ,    8236 , time , 68304 

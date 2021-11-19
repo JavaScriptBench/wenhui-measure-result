@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , node , testcase , loop , package , 9.878967285156250000, core , 6.199127197265625000, gpu ,  0 , dram ,  1.365310668945312500, VMPEAK ,    8236 , time , 255 
+compiler , node , testcase , loop , package , 9.814712524414062500, core , 6.155960083007812500, gpu ,  0 , dram ,  1.344985961914062500, VMPEAK ,    8236 , time , 254 
+compiler , node , testcase , loop , package , 9.816757202148437500, core , 6.156158447265625000, gpu ,  0 , dram ,  1.342773437500000000, VMPEAK ,    8236 , time , 253 
+compiler , node , testcase , loop , package , 9.826965332031250000, core , 6.166030883789062500, gpu ,  0 , dram ,  1.339630126953125000, VMPEAK ,    8236 , time , 254 
+compiler , node , testcase , loop , package , 9.828598022460937500, core , 6.167007446289062500, gpu ,  0 , dram ,  1.358398437500000000, VMPEAK ,    8236 , time , 253 
+compiler , node , testcase , loop , package , 9.847732543945312500, core , 6.184524536132812500, gpu ,  0 , dram ,  1.355300903320312500, VMPEAK ,    8236 , time , 253 
+compiler , node , testcase , loop , package , 9.840133666992187500, core , 6.176467895507812500, gpu ,  0 , dram ,  1.344970703125000000, VMPEAK ,    8236 , time , 253 
+compiler , node , testcase , loop , package , 9.851364135742187500, core , 6.187072753906250000, gpu ,  0 , dram ,  1.355911254882812500, VMPEAK ,    8236 , time , 254 
+compiler , node , testcase , loop , package , 9.845733642578125000, core , 6.181411743164062500, gpu ,  0 , dram ,  1.354309082031250000, VMPEAK ,    8236 , time , 253 
+compiler , node , testcase , loop , package , 9.850494384765625000, core , 6.186355590820312500, gpu ,  0 , dram ,  1.338607788085937500, VMPEAK ,    8236 , time , 253 

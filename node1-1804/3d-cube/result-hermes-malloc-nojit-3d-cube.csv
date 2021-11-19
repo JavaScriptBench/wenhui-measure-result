@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , hermes-malloc , testcase , 3d-cube , package , 4175.046340942382812500, core , 2679.018844604492187500, gpu ,  0 , dram ,  536.136520385742187500, VMPEAK ,    8236 , time , 102591 
+compiler , hermes-malloc , testcase , 3d-cube , package , 4206.017028808593750000, core , 2701.280838012695312500, gpu ,  0 , dram ,  540.891662597656250000, VMPEAK ,    8236 , time , 103031 
+compiler , hermes-malloc , testcase , 3d-cube , package , -61324.015991210937500000, core , 2704.392623901367187500, gpu ,  0 , dram ,  542.257949829101562500, VMPEAK ,    8236 , time , 102904 
+compiler , hermes-malloc , testcase , 3d-cube , package , 4226.086883544921875000, core , 2715.572097778320312500, gpu ,  0 , dram ,  535.384841918945312500, VMPEAK ,    8236 , time , 103026 
+compiler , hermes-malloc , testcase , 3d-cube , package , 4222.485900878906250000, core , 2712.896240234375000000, gpu ,  0 , dram ,  535.752868652343750000, VMPEAK ,    8236 , time , 102924 
+compiler , hermes-malloc , testcase , 3d-cube , package , 4222.953460693359375000, core , 2713.265304565429687500, gpu ,  0 , dram ,  538.751541137695312500, VMPEAK ,    8236 , time , 102880 
+compiler , hermes-malloc , testcase , 3d-cube , package , 4218.070541381835937500, core , 2711.179672241210937500, gpu ,  0 , dram ,  539.503509521484375000, VMPEAK ,    8236 , time , 102737 
+compiler , hermes-malloc , testcase , 3d-cube , package , 4223.626464843750000000, core , 2714.248657226562500000, gpu ,  0 , dram ,  541.947723388671875000, VMPEAK ,    8236 , time , 102862 
+compiler , hermes-malloc , testcase , 3d-cube , package , 4242.202484130859375000, core , 2726.241470336914062500, gpu ,  0 , dram ,  543.890853881835937500, VMPEAK ,    8236 , time , 103333 
+compiler , hermes-malloc , testcase , 3d-cube , package , 4227.104095458984375000, core , 2717.233108520507812500, gpu ,  0 , dram ,  539.855072021484375000, VMPEAK ,    8236 , time , 102948 

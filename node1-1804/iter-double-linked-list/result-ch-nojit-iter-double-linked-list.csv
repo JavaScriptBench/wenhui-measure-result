@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , ch-nojit , testcase , iter-double-linked-list , package , 146.497253417968750000, core , 89.494476318359375000, gpu ,  0 , dram ,  26.052749633789062500, VMPEAK ,    8236 , time , 3900 
+compiler , ch-nojit , testcase , iter-double-linked-list , package , 144.522171020507812500, core , 92.028457641601562500, gpu ,  0 , dram ,  24.159179687500000000, VMPEAK ,    8236 , time , 3585 
+compiler , ch-nojit , testcase , iter-double-linked-list , package , 144.624298095703125000, core , 92.086914062500000000, gpu ,  0 , dram ,  24.281127929687500000, VMPEAK ,    8236 , time , 3587 
+compiler , ch-nojit , testcase , iter-double-linked-list , package , 144.973281860351562500, core , 92.361846923828125000, gpu ,  0 , dram ,  24.269836425781250000, VMPEAK ,    8236 , time , 3591 
+compiler , ch-nojit , testcase , iter-double-linked-list , package , 144.591690063476562500, core , 92.147216796875000000, gpu ,  0 , dram ,  24.067092895507812500, VMPEAK ,    8236 , time , 3582 
+compiler , ch-nojit , testcase , iter-double-linked-list , package , 143.483932495117187500, core , 91.514205932617187500, gpu ,  0 , dram ,  24.108062744140625000, VMPEAK ,    8236 , time , 3552 
+compiler , ch-nojit , testcase , iter-double-linked-list , package , 143.598663330078125000, core , 91.637191772460937500, gpu ,  0 , dram ,  24.052337646484375000, VMPEAK ,    8236 , time , 3554 
+compiler , ch-nojit , testcase , iter-double-linked-list , package , 144.690750122070312500, core , 92.375274658203125000, gpu ,  0 , dram ,  24.284484863281250000, VMPEAK ,    8236 , time , 3577 
+compiler , ch-nojit , testcase , iter-double-linked-list , package , 144.742752075195312500, core , 92.369964599609375000, gpu ,  0 , dram ,  24.325820922851562500, VMPEAK ,    8236 , time , 3581 
+compiler , ch-nojit , testcase , iter-double-linked-list , package , 144.335235595703125000, core , 92.141921997070312500, gpu ,  0 , dram ,  23.979141235351562500, VMPEAK ,    8236 , time , 3567 

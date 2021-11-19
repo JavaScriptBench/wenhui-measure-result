@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , hermes-hades , testcase , array-findIndex , package , 120.537887573242187500, core , 72.980529785156250000, gpu ,  0 , dram ,  17.279785156250000000, VMPEAK ,    8236 , time , 3295 
+compiler , hermes-hades , testcase , array-findIndex , package , 116.839355468750000000, core , 74.261764526367187500, gpu ,  0 , dram ,  15.216629028320312500, VMPEAK ,    8236 , time , 2950 
+compiler , hermes-hades , testcase , array-findIndex , package , 116.909255981445312500, core , 74.317382812500000000, gpu ,  0 , dram ,  15.203765869140625000, VMPEAK ,    8236 , time , 2951 
+compiler , hermes-hades , testcase , array-findIndex , package , 117.361587524414062500, core , 74.623123168945312500, gpu ,  0 , dram ,  15.422714233398437500, VMPEAK ,    8236 , time , 2959 
+compiler , hermes-hades , testcase , array-findIndex , package , 117.240829467773437500, core , 74.556060791015625000, gpu ,  0 , dram ,  15.265869140625000000, VMPEAK ,    8236 , time , 2956 
+compiler , hermes-hades , testcase , array-findIndex , package , 117.694290161132812500, core , 74.859970092773437500, gpu ,  0 , dram ,  15.260299682617187500, VMPEAK ,    8236 , time , 2965 
+compiler , hermes-hades , testcase , array-findIndex , package , 117.668365478515625000, core , 74.867095947265625000, gpu ,  0 , dram ,  15.384201049804687500, VMPEAK ,    8236 , time , 2963 
+compiler , hermes-hades , testcase , array-findIndex , package , 117.776519775390625000, core , 74.974899291992187500, gpu ,  0 , dram ,  15.522872924804687500, VMPEAK ,    8236 , time , 2962 
+compiler , hermes-hades , testcase , array-findIndex , package , 117.551635742187500000, core , 74.820022583007812500, gpu ,  0 , dram ,  15.386169433593750000, VMPEAK ,    8236 , time , 2956 
+compiler , hermes-hades , testcase , array-findIndex , package , 118.122268676757812500, core , 75.215713500976562500, gpu ,  0 , dram ,  15.440048217773437500, VMPEAK ,    8236 , time , 2967 

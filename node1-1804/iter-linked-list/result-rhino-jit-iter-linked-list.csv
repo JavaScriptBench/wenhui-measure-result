@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , rhino-jit , testcase , iter-linked-list , package , 163.895965576171875000, core , 100.303558349609375000, gpu ,  0 , dram ,  30.480102539062500000, VMPEAK ,    8236 , time , 4347 
+compiler , rhino-jit , testcase , iter-linked-list , package , 167.740890502929687500, core , 106.273223876953125000, gpu ,  0 , dram ,  29.717849731445312500, VMPEAK ,    8236 , time , 4199 
+compiler , rhino-jit , testcase , iter-linked-list , package , 169.495483398437500000, core , 107.486938476562500000, gpu ,  0 , dram ,  30.003753662109375000, VMPEAK ,    8236 , time , 4234 
+compiler , rhino-jit , testcase , iter-linked-list , package , 167.834060668945312500, core , 106.402069091796875000, gpu ,  0 , dram ,  30.077056884765625000, VMPEAK ,    8236 , time , 4195 
+compiler , rhino-jit , testcase , iter-linked-list , package , 159.613739013671875000, core , 101.291854858398437500, gpu ,  0 , dram ,  28.505065917968750000, VMPEAK ,    8236 , time , 3978 
+compiler , rhino-jit , testcase , iter-linked-list , package , 164.694778442382812500, core , 104.598342895507812500, gpu ,  0 , dram ,  29.079025268554687500, VMPEAK ,    8236 , time , 4107 
+compiler , rhino-jit , testcase , iter-linked-list , package , 165.597091674804687500, core , 105.145202636718750000, gpu ,  0 , dram ,  28.878448486328125000, VMPEAK ,    8236 , time , 4128 
+compiler , rhino-jit , testcase , iter-linked-list , package , 169.806762695312500000, core , 108.185073852539062500, gpu ,  0 , dram ,  29.862869262695312500, VMPEAK ,    8236 , time , 4208 
+compiler , rhino-jit , testcase , iter-linked-list , package , 160.296966552734375000, core , 101.814956665039062500, gpu ,  0 , dram ,  28.336776733398437500, VMPEAK ,    8236 , time , 4001 
+compiler , rhino-jit , testcase , iter-linked-list , package , 162.232131958007812500, core , 103.300628662109375000, gpu ,  0 , dram ,  28.638977050781250000, VMPEAK ,    8236 , time , 4027 
