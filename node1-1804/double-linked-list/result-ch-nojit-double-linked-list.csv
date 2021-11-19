@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , ch-nojit , testcase , double-linked-list , package , 462.990097045898437500, core , 292.775680541992187500, gpu ,  0 , dram ,  68.734252929687500000, VMPEAK ,    8236 , time , 11792 
+compiler , ch-nojit , testcase , double-linked-list , package , 471.619064331054687500, core , 299.230224609375000000, gpu ,  0 , dram ,  70.580459594726562500, VMPEAK ,    8236 , time , 11924 
+compiler , ch-nojit , testcase , double-linked-list , package , 461.560241699218750000, core , 293.487915039062500000, gpu ,  0 , dram ,  67.986267089843750000, VMPEAK ,    8236 , time , 11636 
+compiler , ch-nojit , testcase , double-linked-list , package , 468.152557373046875000, core , 297.814773559570312500, gpu ,  0 , dram ,  68.904159545898437500, VMPEAK ,    8236 , time , 11801 
+compiler , ch-nojit , testcase , double-linked-list , package , 463.926849365234375000, core , 295.048751831054687500, gpu ,  0 , dram ,  68.506072998046875000, VMPEAK ,    8236 , time , 11685 
+compiler , ch-nojit , testcase , double-linked-list , package , 459.691299438476562500, core , 292.532272338867187500, gpu ,  0 , dram ,  67.529953002929687500, VMPEAK ,    8236 , time , 11556 
+compiler , ch-nojit , testcase , double-linked-list , package , 460.575958251953125000, core , 293.359756469726562500, gpu ,  0 , dram ,  68.731292724609375000, VMPEAK ,    8236 , time , 11546 
+compiler , ch-nojit , testcase , double-linked-list , package , 470.530532836914062500, core , 299.743331909179687500, gpu ,  0 , dram ,  71.702758789062500000, VMPEAK ,    8236 , time , 11783 
+compiler , ch-nojit , testcase , double-linked-list , package , 465.801986694335937500, core , 297.128341674804687500, gpu ,  0 , dram ,  69.150390625000000000, VMPEAK ,    8236 , time , 11627 
+compiler , ch-nojit , testcase , double-linked-list , package , 470.876510620117187500, core , 300.404922485351562500, gpu ,  0 , dram ,  70.583862304687500000, VMPEAK ,    8236 , time , 11738 
