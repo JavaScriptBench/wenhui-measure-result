@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , hermes-hades , testcase , iter-double-linked-list , package , 5192.276306152343750000, core , 3930.742294311523437500, gpu ,  0 , dram ,  969.332595825195312500, VMPEAK ,    8292 , time , 110798 
+compiler , hermes-hades , testcase , iter-double-linked-list , package , 5250.266174316406250000, core , 3977.715286254882812500, gpu ,  0 , dram ,  974.936614990234375000, VMPEAK ,    8292 , time , 111489 
+compiler , hermes-hades , testcase , iter-double-linked-list , package , 5246.453781127929687500, core , 3976.371536254882812500, gpu ,  0 , dram ,  973.215774536132812500, VMPEAK ,    8292 , time , 111207 
+compiler , hermes-hades , testcase , iter-double-linked-list , package , 5245.644653320312500000, core , -61558.807632446289062500, gpu ,  0 , dram ,  971.421127319335937500, VMPEAK ,    8292 , time , 111030 
+compiler , hermes-hades , testcase , iter-double-linked-list , package , 5220.972686767578125000, core , 3957.446075439453125000, gpu ,  0 , dram ,  967.611099243164062500, VMPEAK ,    8292 , time , 110592 
+compiler , hermes-hades , testcase , iter-double-linked-list , package , 5237.452148437500000000, core , 3971.096221923828125000, gpu ,  0 , dram ,  969.513732910156250000, VMPEAK ,    8292 , time , 110856 
+compiler , hermes-hades , testcase , iter-double-linked-list , package , 5258.347717285156250000, core , 3986.274215698242187500, gpu ,  0 , dram ,  974.348159790039062500, VMPEAK ,    8292 , time , 111350 
+compiler , hermes-hades , testcase , iter-double-linked-list , package , 5252.059143066406250000, core , 3980.337326049804687500, gpu ,  0 , dram ,  973.341369628906250000, VMPEAK ,    8292 , time , 111266 
+compiler , hermes-hades , testcase , iter-double-linked-list , package , 5223.988449096679687500, core , 3960.418136596679687500, gpu ,  0 , dram ,  967.183395385742187500, VMPEAK ,    8292 , time , 110575 
+compiler , hermes-hades , testcase , iter-double-linked-list , package , -60317.864196777343750000, core , 3956.429107666015625000, gpu ,  0 , dram ,  966.252807617187500000, VMPEAK ,    8292 , time , 110455 

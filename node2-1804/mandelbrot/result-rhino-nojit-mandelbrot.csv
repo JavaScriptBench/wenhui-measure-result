@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , rhino-nojit , testcase , mandelbrot , package , 14440.261672973632812500, core , 10946.188140869140625000, gpu ,  0 , dram ,  2671.320526123046875000, VMPEAK ,    8292 , time , 305692 
+compiler , rhino-nojit , testcase , mandelbrot , package , 14518.615707397460937500, core , 11016.390686035156250000, gpu ,  0 , dram ,  2675.281402587890625000, VMPEAK ,    8292 , time , 305876 
+compiler , rhino-nojit , testcase , mandelbrot , package , -51063.335845947265625000, core , 10972.409713745117187500, gpu ,  0 , dram ,  2671.903320312500000000, VMPEAK ,    8292 , time , 305480 
+compiler , rhino-nojit , testcase , mandelbrot , package , 14480.903076171875000000, core , 10984.038574218750000000, gpu ,  0 , dram ,  2669.612716674804687500, VMPEAK ,    8292 , time , 305161 
+compiler , rhino-nojit , testcase , mandelbrot , package , 14615.603225708007812500, core , 11085.044006347656250000, gpu ,  0 , dram ,  2696.560913085937500000, VMPEAK ,    8292 , time , 308304 
+compiler , rhino-nojit , testcase , mandelbrot , package , 14351.465820312500000000, core , -54643.308944702148437500, gpu ,  0 , dram ,  -62892.837646484375000000, VMPEAK ,    8292 , time , 302196 
+compiler , rhino-nojit , testcase , mandelbrot , package , 14343.724441528320312500, core , 10877.370544433593750000, gpu ,  0 , dram ,  2645.845260620117187500, VMPEAK ,    8292 , time , 302525 
+compiler , rhino-nojit , testcase , mandelbrot , package , -51250.260406494140625000, core , 10830.840637207031250000, gpu ,  0 , dram ,  2636.487533569335937500, VMPEAK ,    8292 , time , 301467 
+compiler , rhino-nojit , testcase , mandelbrot , package , 14488.908569335937500000, core , 10975.280807495117187500, gpu ,  0 , dram ,  2681.859375000000000000, VMPEAK ,    8292 , time , 306645 
+compiler , rhino-nojit , testcase , mandelbrot , package , 14482.826583862304687500, core , 10974.548019409179687500, gpu ,  0 , dram ,  2676.206604003906250000, VMPEAK ,    8292 , time , 305989 

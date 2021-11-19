@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , hermes-gengc , testcase , 3d-cube , package , 5003.886871337890625000, core , 3783.885803222656250000, gpu ,  0 , dram ,  935.054519653320312500, VMPEAK ,    8292 , time , 107093 
+compiler , hermes-gengc , testcase , 3d-cube , package , 5024.164581298828125000, core , 3803.927047729492187500, gpu ,  0 , dram ,  934.718154907226562500, VMPEAK ,    8292 , time , 106852 
+compiler , hermes-gengc , testcase , 3d-cube , package , 5042.809997558593750000, core , 3818.298355102539062500, gpu ,  0 , dram ,  937.451263427734375000, VMPEAK ,    8292 , time , 107139 
+compiler , hermes-gengc , testcase , 3d-cube , package , 5048.898193359375000000, core , 3823.715591430664062500, gpu ,  0 , dram ,  937.689132690429687500, VMPEAK ,    8292 , time , 107229 
+compiler , hermes-gengc , testcase , 3d-cube , package , 5040.469436645507812500, core , 3817.649963378906250000, gpu ,  0 , dram ,  935.748672485351562500, VMPEAK ,    8292 , time , 107004 
+compiler , hermes-gengc , testcase , 3d-cube , package , 5077.863525390625000000, core , 3847.416168212890625000, gpu ,  0 , dram ,  940.460250854492187500, VMPEAK ,    8292 , time , 107626 
+compiler , hermes-gengc , testcase , 3d-cube , package , 5057.263626098632812500, core , 3831.667251586914062500, gpu ,  0 , dram ,  937.298843383789062500, VMPEAK ,    8292 , time , 107207 
+compiler , hermes-gengc , testcase , 3d-cube , package , 5042.741973876953125000, core , 3821.365264892578125000, gpu ,  0 , dram ,  934.975646972656250000, VMPEAK ,    8292 , time , 106827 
+compiler , hermes-gengc , testcase , 3d-cube , package , -60490.471481323242187500, core , 3821.964096069335937500, gpu ,  0 , dram ,  937.363739013671875000, VMPEAK ,    8292 , time , 107107 
+compiler , hermes-gengc , testcase , 3d-cube , package , 5056.076034545898437500, core , 3830.254653930664062500, gpu ,  0 , dram ,  -64597.938232421875000000, VMPEAK ,    8292 , time , 107284 

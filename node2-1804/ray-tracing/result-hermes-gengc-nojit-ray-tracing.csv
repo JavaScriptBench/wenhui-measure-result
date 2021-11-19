@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , hermes-gengc , testcase , ray-tracing , package , 5279.921752929687500000, core , 4002.513702392578125000, gpu ,  0 , dram ,  980.026428222656250000, VMPEAK ,    8292 , time , 112023 
+compiler , hermes-gengc , testcase , ray-tracing , package , 5290.970001220703125000, core , 4013.047332763671875000, gpu ,  0 , dram ,  979.395416259765625000, VMPEAK ,    8292 , time , 111908 
+compiler , hermes-gengc , testcase , ray-tracing , package , 5295.910369873046875000, core , -61517.050079345703125000, gpu ,  0 , dram ,  978.051544189453125000, VMPEAK ,    8292 , time , 111776 
+compiler , hermes-gengc , testcase , ray-tracing , package , 5296.219665527343750000, core , 4018.650253295898437500, gpu ,  0 , dram ,  978.014190673828125000, VMPEAK ,    8292 , time , 111792 
+compiler , hermes-gengc , testcase , ray-tracing , package , 5302.173553466796875000, core , 4024.719573974609375000, gpu ,  0 , dram ,  978.471237182617187500, VMPEAK ,    8292 , time , 111809 
+compiler , hermes-gengc , testcase , ray-tracing , package , 5301.359725952148437500, core , 4023.346023559570312500, gpu ,  0 , dram ,  978.717468261718750000, VMPEAK ,    8292 , time , 111850 
+compiler , hermes-gengc , testcase , ray-tracing , package , -60233.657135009765625000, core , 4024.517684936523437500, gpu ,  0 , dram ,  977.977783203125000000, VMPEAK ,    8292 , time , 111802 
+compiler , hermes-gengc , testcase , ray-tracing , package , 5306.087387084960937500, core , 4025.095092773437500000, gpu ,  0 , dram ,  980.109924316406250000, VMPEAK ,    8292 , time , 112027 
+compiler , hermes-gengc , testcase , ray-tracing , package , 5297.774230957031250000, core , 4019.552230834960937500, gpu ,  0 , dram ,  977.436218261718750000, VMPEAK ,    8292 , time , 111771 
+compiler , hermes-gengc , testcase , ray-tracing , package , 5303.136199951171875000, core , 4024.435028076171875000, gpu ,  0 , dram ,  978.147201538085937500, VMPEAK ,    8292 , time , 111837 

@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , rhino-nojit , testcase , array-findIndex , package , 288.284423828125000000, core , 217.903823852539062500, gpu ,  0 , dram ,  54.032424926757812500, VMPEAK ,    8292 , time , 6189 
+compiler , rhino-nojit , testcase , array-findIndex , package , 289.716567993164062500, core , 219.032165527343750000, gpu ,  0 , dram ,  54.335357666015625000, VMPEAK ,    8292 , time , 6212 
+compiler , rhino-nojit , testcase , array-findIndex , package , 288.973205566406250000, core , 218.428802490234375000, gpu ,  0 , dram ,  54.110931396484375000, VMPEAK ,    8292 , time , 6198 
+compiler , rhino-nojit , testcase , array-findIndex , package , 290.038742065429687500, core , 219.316802978515625000, gpu ,  0 , dram ,  54.225540161132812500, VMPEAK ,    8292 , time , 6216 
+compiler , rhino-nojit , testcase , array-findIndex , package , 291.477859497070312500, core , 220.514511108398437500, gpu ,  0 , dram ,  54.585647583007812500, VMPEAK ,    8292 , time , 6236 
+compiler , rhino-nojit , testcase , array-findIndex , package , 288.164031982421875000, core , 218.019851684570312500, gpu ,  0 , dram ,  53.959426879882812500, VMPEAK ,    8292 , time , 6166 
+compiler , rhino-nojit , testcase , array-findIndex , package , 288.974609375000000000, core , 218.611221313476562500, gpu ,  0 , dram ,  54.046554565429687500, VMPEAK ,    8292 , time , 6181 
+compiler , rhino-nojit , testcase , array-findIndex , package , 292.759399414062500000, core , 221.591049194335937500, gpu ,  0 , dram ,  54.761642456054687500, VMPEAK ,    8292 , time , 6250 
+compiler , rhino-nojit , testcase , array-findIndex , package , 290.072204589843750000, core , 219.501708984375000000, gpu ,  0 , dram ,  54.285751342773437500, VMPEAK ,    8292 , time , 6193 
+compiler , rhino-nojit , testcase , array-findIndex , package , 290.169250488281250000, core , 219.630935668945312500, gpu ,  0 , dram ,  54.116058349609375000, VMPEAK ,    8292 , time , 6186 

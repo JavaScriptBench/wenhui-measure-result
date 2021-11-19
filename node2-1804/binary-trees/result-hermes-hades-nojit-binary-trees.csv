@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , hermes-hades , testcase , binary-trees , package , 851.763809204101562500, core , 646.835830688476562500, gpu ,  0 , dram ,  157.268692016601562500, VMPEAK ,    8292 , time , 17963 
+compiler , hermes-hades , testcase , binary-trees , package , 851.184280395507812500, core , 646.644332885742187500, gpu ,  0 , dram ,  156.741928100585937500, VMPEAK ,    8292 , time , 17916 
+compiler , hermes-hades , testcase , binary-trees , package , 851.541168212890625000, core , 646.973388671875000000, gpu ,  0 , dram ,  156.532470703125000000, VMPEAK ,    8292 , time , 17910 
+compiler , hermes-hades , testcase , binary-trees , package , 853.266098022460937500, core , 648.759063720703125000, gpu ,  0 , dram ,  156.739166259765625000, VMPEAK ,    8292 , time , 17901 
+compiler , hermes-hades , testcase , binary-trees , package , 855.863479614257812500, core , 650.768600463867187500, gpu ,  0 , dram ,  157.008422851562500000, VMPEAK ,    8292 , time , 17951 
+compiler , hermes-hades , testcase , binary-trees , package , 854.809478759765625000, core , 649.732955932617187500, gpu ,  0 , dram ,  157.239456176757812500, VMPEAK ,    8292 , time , 17946 
+compiler , hermes-hades , testcase , binary-trees , package , 855.332687377929687500, core , 650.309982299804687500, gpu ,  0 , dram ,  156.894973754882812500, VMPEAK ,    8292 , time , 17930 
+compiler , hermes-hades , testcase , binary-trees , package , 857.625595092773437500, core , 652.026321411132812500, gpu ,  0 , dram ,  157.390335083007812500, VMPEAK ,    8292 , time , 17981 
+compiler , hermes-hades , testcase , binary-trees , package , 857.981140136718750000, core , 652.383285522460937500, gpu ,  0 , dram ,  157.196411132812500000, VMPEAK ,    8292 , time , 17979 
+compiler , hermes-hades , testcase , binary-trees , package , 854.774612426757812500, core , 649.905899047851562500, gpu ,  0 , dram ,  156.621643066406250000, VMPEAK ,    8292 , time , 17903 

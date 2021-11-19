@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , hermes-hades , testcase , fannkuch-redux , package , 1132.773239135742187500, core , 859.674987792968750000, gpu ,  0 , dram ,  209.385635375976562500, VMPEAK ,    8292 , time , 23930 
+compiler , hermes-hades , testcase , fannkuch-redux , package , 1135.863555908203125000, core , 862.724533081054687500, gpu ,  0 , dram ,  209.252944946289062500, VMPEAK ,    8292 , time , 23920 
+compiler , hermes-hades , testcase , fannkuch-redux , package , 1135.872604370117187500, core , 862.669845581054687500, gpu ,  0 , dram ,  209.097732543945312500, VMPEAK ,    8292 , time , 23916 
+compiler , hermes-hades , testcase , fannkuch-redux , package , 1137.636276245117187500, core , 864.199035644531250000, gpu ,  0 , dram ,  209.416992187500000000, VMPEAK ,    8292 , time , 23935 
+compiler , hermes-hades , testcase , fannkuch-redux , package , 1138.484268188476562500, core , 864.775588989257812500, gpu ,  0 , dram ,  209.575729370117187500, VMPEAK ,    8292 , time , 23954 
+compiler , hermes-hades , testcase , fannkuch-redux , package , 1136.697082519531250000, core , 863.578964233398437500, gpu ,  0 , dram ,  209.050582885742187500, VMPEAK ,    8292 , time , 23899 
+compiler , hermes-hades , testcase , fannkuch-redux , package , 1141.858032226562500000, core , 867.342880249023437500, gpu ,  0 , dram ,  209.700653076171875000, VMPEAK ,    8292 , time , 24009 
+compiler , hermes-hades , testcase , fannkuch-redux , package , 1138.926696777343750000, core , 865.191894531250000000, gpu ,  0 , dram ,  209.274337768554687500, VMPEAK ,    8292 , time , 23936 
+compiler , hermes-hades , testcase , fannkuch-redux , package , 1139.208862304687500000, core , 865.476577758789062500, gpu ,  0 , dram ,  209.517593383789062500, VMPEAK ,    8292 , time , 23945 
+compiler , hermes-hades , testcase , fannkuch-redux , package , 1139.483718872070312500, core , 865.682662963867187500, gpu ,  0 , dram ,  209.572860717773437500, VMPEAK ,    8292 , time , 23959 

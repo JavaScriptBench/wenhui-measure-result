@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , hermes-malloc , testcase , 3d-morph , package , 3170.105651855468750000, core , 2402.893997192382812500, gpu ,  0 , dram ,  588.663558959960937500, VMPEAK ,    8292 , time , 67419 
+compiler , hermes-malloc , testcase , 3d-morph , package , 3252.365142822265625000, core , 2467.726303100585937500, gpu ,  0 , dram ,  600.858291625976562500, VMPEAK ,    8292 , time , 68756 
+compiler , hermes-malloc , testcase , 3d-morph , package , 3156.053756713867187500, core , 2397.097030639648437500, gpu ,  0 , dram ,  581.107086181640625000, VMPEAK ,    8292 , time , 66450 
+compiler , hermes-malloc , testcase , 3d-morph , package , -62359.894271850585937500, core , 2412.061859130859375000, gpu ,  0 , dram ,  585.096496582031250000, VMPEAK ,    8292 , time , 66888 
+compiler , hermes-malloc , testcase , 3d-morph , package , 3144.988525390625000000, core , 2388.550796508789062500, gpu ,  0 , dram ,  579.104003906250000000, VMPEAK ,    8292 , time , 66218 
+compiler , hermes-malloc , testcase , 3d-morph , package , 3221.090545654296875000, core , -63088.334091186523437500, gpu ,  0 , dram ,  592.424407958984375000, VMPEAK ,    8292 , time , 67713 
+compiler , hermes-malloc , testcase , 3d-morph , package , 3150.662109375000000000, core , 2394.310958862304687500, gpu ,  0 , dram ,  579.090866088867187500, VMPEAK ,    8292 , time , 66215 
+compiler , hermes-malloc , testcase , 3d-morph , package , 3147.355789184570312500, core , 2390.418533325195312500, gpu ,  0 , dram ,  579.259597778320312500, VMPEAK ,    8292 , time , 66253 
+compiler , hermes-malloc , testcase , 3d-morph , package , 3143.836380004882812500, core , 2387.536758422851562500, gpu ,  0 , dram ,  -64957.723281860351562500, VMPEAK ,    8292 , time , 66170 
+compiler , hermes-malloc , testcase , 3d-morph , package , 3141.056228637695312500, core , 2383.769348144531250000, gpu ,  0 , dram ,  578.494323730468750000, VMPEAK ,    8292 , time , 66222 

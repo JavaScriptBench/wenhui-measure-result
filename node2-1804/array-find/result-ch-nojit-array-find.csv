@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , ch-nojit , testcase , array-find , package , 6.449966430664062500, core , 4.832397460937500000, gpu ,  0 , dram ,  1.286895751953125000, VMPEAK ,    8292 , time , 145 
+compiler , ch-nojit , testcase , array-find , package , 6.621429443359375000, core , 4.966690063476562500, gpu ,  0 , dram ,  1.268142700195312500, VMPEAK ,    8292 , time , 145 
+compiler , ch-nojit , testcase , array-find , package , 6.462432861328125000, core , 4.841720581054687500, gpu ,  0 , dram ,  1.242233276367187500, VMPEAK ,    8292 , time , 142 
+compiler , ch-nojit , testcase , array-find , package , 6.566772460937500000, core , 4.921096801757812500, gpu ,  0 , dram ,  1.243530273437500000, VMPEAK ,    8292 , time , 144 
+compiler , ch-nojit , testcase , array-find , package , 6.521850585937500000, core , 4.900329589843750000, gpu ,  0 , dram ,  1.242599487304687500, VMPEAK ,    8292 , time , 142 
+compiler , ch-nojit , testcase , array-find , package , 6.614120483398437500, core , 4.980499267578125000, gpu ,  0 , dram ,  1.269882202148437500, VMPEAK ,    8292 , time , 143 
+compiler , ch-nojit , testcase , array-find , package , 6.704010009765625000, core , 5.046569824218750000, gpu ,  0 , dram ,  1.279449462890625000, VMPEAK ,    8292 , time , 145 
+compiler , ch-nojit , testcase , array-find , package , 6.340194702148437500, core , 4.751708984375000000, gpu ,  0 , dram ,  1.233154296875000000, VMPEAK ,    8292 , time , 139 
+compiler , ch-nojit , testcase , array-find , package , 6.266891479492187500, core , 4.690307617187500000, gpu ,  0 , dram ,  1.215515136718750000, VMPEAK ,    8292 , time , 138 
+compiler , ch-nojit , testcase , array-find , package , 6.542602539062500000, core , 4.907409667968750000, gpu ,  0 , dram ,  1.259765625000000000, VMPEAK ,    8292 , time , 143 

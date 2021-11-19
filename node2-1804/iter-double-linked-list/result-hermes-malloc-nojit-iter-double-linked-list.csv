@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , hermes-malloc , testcase , iter-double-linked-list , package , 5799.536376953125000000, core , 4398.280746459960937500, gpu ,  0 , dram ,  1075.247665405273437500, VMPEAK ,    8292 , time , 122849 
+compiler , hermes-malloc , testcase , iter-double-linked-list , package , 5743.920272827148437500, core , 4360.176528930664062500, gpu ,  0 , dram ,  1059.802185058593750000, VMPEAK ,    8292 , time , 121154 
+compiler , hermes-malloc , testcase , iter-double-linked-list , package , 5775.657638549804687500, core , 4383.946044921875000000, gpu ,  0 , dram ,  1065.485366821289062500, VMPEAK ,    8292 , time , 121838 
+compiler , hermes-malloc , testcase , iter-double-linked-list , package , 5825.854980468750000000, core , 4421.611541748046875000, gpu ,  0 , dram ,  1075.591873168945312500, VMPEAK ,    8292 , time , 122917 
+compiler , hermes-malloc , testcase , iter-double-linked-list , package , 5842.567443847656250000, core , 4434.333053588867187500, gpu ,  0 , dram ,  -64457.598480224609375000, VMPEAK ,    8292 , time , 123262 
+compiler , hermes-malloc , testcase , iter-double-linked-list , package , 5783.985702514648437500, core , 4391.156341552734375000, gpu ,  0 , dram ,  1065.939193725585937500, VMPEAK ,    8292 , time , 121888 
+compiler , hermes-malloc , testcase , iter-double-linked-list , package , 5762.514266967773437500, core , 4374.714584350585937500, gpu ,  0 , dram ,  1062.210205078125000000, VMPEAK ,    8292 , time , 121422 
+compiler , hermes-malloc , testcase , iter-double-linked-list , package , 5813.407135009765625000, core , 4413.234924316406250000, gpu ,  0 , dram ,  1071.603164672851562500, VMPEAK ,    8292 , time , 122472 
+compiler , hermes-malloc , testcase , iter-double-linked-list , package , 5842.267761230468750000, core , -61102.547973632812500000, gpu ,  0 , dram ,  1078.168197631835937500, VMPEAK ,    8292 , time , 123257 
+compiler , hermes-malloc , testcase , iter-double-linked-list , package , 5835.680023193359375000, core , 4429.299758911132812500, gpu ,  0 , dram ,  1077.166107177734375000, VMPEAK ,    8292 , time , 123082 

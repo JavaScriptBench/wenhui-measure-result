@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , js-24 , testcase , iter-double-linked-list , package , 17.063049316406250000, core , 12.636123657226562500, gpu ,  0 , dram ,  3.947952270507812500, VMPEAK ,    8292 , time , 364 
+compiler , js-24 , testcase , iter-double-linked-list , package , 17.095535278320312500, core , 12.733856201171875000, gpu ,  0 , dram ,  3.884826660156250000, VMPEAK ,    8292 , time , 359 
+compiler , js-24 , testcase , iter-double-linked-list , package , 17.147766113281250000, core , 12.771865844726562500, gpu ,  0 , dram ,  3.902038574218750000, VMPEAK ,    8292 , time , 360 
+compiler , js-24 , testcase , iter-double-linked-list , package , 17.065994262695312500, core , 12.702301025390625000, gpu ,  0 , dram ,  3.910140991210937500, VMPEAK ,    8292 , time , 359 
+compiler , js-24 , testcase , iter-double-linked-list , package , 16.993591308593750000, core , 12.641326904296875000, gpu ,  0 , dram ,  3.856063842773437500, VMPEAK ,    8292 , time , 358 
+compiler , js-24 , testcase , iter-double-linked-list , package , 17.028457641601562500, core , 12.663818359375000000, gpu ,  0 , dram ,  3.904342651367187500, VMPEAK ,    8292 , time , 359 
+compiler , js-24 , testcase , iter-double-linked-list , package , 17.177185058593750000, core , 12.776458740234375000, gpu ,  0 , dram ,  3.919113159179687500, VMPEAK ,    8292 , time , 361 
+compiler , js-24 , testcase , iter-double-linked-list , package , 17.057205200195312500, core , 12.692199707031250000, gpu ,  0 , dram ,  3.858413696289062500, VMPEAK ,    8292 , time , 360 
+compiler , js-24 , testcase , iter-double-linked-list , package , 17.032516479492187500, core , 12.668075561523437500, gpu ,  0 , dram ,  3.912612915039062500, VMPEAK ,    8292 , time , 358 
+compiler , js-24 , testcase , iter-double-linked-list , package , 17.029342651367187500, core , 12.662979125976562500, gpu ,  0 , dram ,  3.873046875000000000, VMPEAK ,    8292 , time , 359 
