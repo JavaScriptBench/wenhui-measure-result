@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , d8 , testcase , fannkuch-redux , package , 1.532546997070312500, core , 1.077072143554687500, gpu ,  0 , dram ,  0.353759765625000000, VMPEAK ,    8292 , time , 41 
+compiler , d8 , testcase , fannkuch-redux , package , 1.474594116210937500, core , 1.109802246093750000, gpu ,  0 , dram ,  0.283081054687500000, VMPEAK ,    8292 , time , 32 
+compiler , d8 , testcase , fannkuch-redux , package , 1.477600097656250000, core , 1.112319946289062500, gpu ,  0 , dram ,  0.283096313476562500, VMPEAK ,    8292 , time , 32 
+compiler , d8 , testcase , fannkuch-redux , package , 1.431274414062500000, core , 1.077621459960937500, gpu ,  0 , dram ,  0.274230957031250000, VMPEAK ,    8292 , time , 31 
+compiler , d8 , testcase , fannkuch-redux , package , 1.432052612304687500, core , 1.078460693359375000, gpu ,  0 , dram ,  0.283065795898437500, VMPEAK ,    8292 , time , 31 
+compiler , d8 , testcase , fannkuch-redux , package , 1.479278564453125000, core , 1.114059448242187500, gpu ,  0 , dram ,  0.274246215820312500, VMPEAK ,    8292 , time , 31 
+compiler , d8 , testcase , fannkuch-redux , package , 1.433609008789062500, core , 1.079711914062500000, gpu ,  0 , dram ,  0.274246215820312500, VMPEAK ,    8292 , time , 31 
+compiler , d8 , testcase , fannkuch-redux , package , 1.432083129882812500, core , 1.078369140625000000, gpu ,  0 , dram ,  0.274246215820312500, VMPEAK ,    8292 , time , 31 
+compiler , d8 , testcase , fannkuch-redux , package , 1.433456420898437500, core , 1.079727172851562500, gpu ,  0 , dram ,  0.283096313476562500, VMPEAK ,    8292 , time , 31 
+compiler , d8 , testcase , fannkuch-redux , package , 1.434585571289062500, core , 1.080627441406250000, gpu ,  0 , dram ,  0.265411376953125000, VMPEAK ,    8292 , time , 31 

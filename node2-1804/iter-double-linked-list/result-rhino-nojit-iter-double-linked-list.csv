@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , rhino-nojit , testcase , iter-double-linked-list , package , 9200.061019897460937500, core , 6975.926757812500000000, gpu ,  0 , dram ,  1704.496231079101562500, VMPEAK ,    8292 , time , 194804 
+compiler , rhino-nojit , testcase , iter-double-linked-list , package , 9119.216964721679687500, core , 6917.323898315429687500, gpu ,  0 , dram ,  1685.453720092773437500, VMPEAK ,    8292 , time , 192668 
+compiler , rhino-nojit , testcase , iter-double-linked-list , package , 9260.328445434570312500, core , 7025.162246704101562500, gpu ,  0 , dram ,  1711.106445312500000000, VMPEAK ,    8292 , time , 195590 
+compiler , rhino-nojit , testcase , iter-double-linked-list , package , 9309.859069824218750000, core , 7066.813659667968750000, gpu ,  0 , dram ,  1717.109420776367187500, VMPEAK ,    8292 , time , 196253 
+compiler , rhino-nojit , testcase , iter-double-linked-list , package , -56334.728942871093750000, core , 6980.347961425781250000, gpu ,  0 , dram ,  1700.427062988281250000, VMPEAK ,    8292 , time , 194355 
+compiler , rhino-nojit , testcase , iter-double-linked-list , package , 9147.698181152343750000, core , 6940.218353271484375000, gpu ,  0 , dram ,  1690.921539306640625000, VMPEAK ,    8292 , time , 193275 
+compiler , rhino-nojit , testcase , iter-double-linked-list , package , 9164.302124023437500000, core , -58580.170867919921875000, gpu ,  0 , dram ,  1691.296875000000000000, VMPEAK ,    8292 , time , 193315 
+compiler , rhino-nojit , testcase , iter-double-linked-list , package , 9168.148391723632812500, core , 6954.752105712890625000, gpu ,  0 , dram ,  1695.410354614257812500, VMPEAK ,    8292 , time , 193763 
+compiler , rhino-nojit , testcase , iter-double-linked-list , package , 9156.820144653320312500, core , 6947.955749511718750000, gpu ,  0 , dram ,  1691.080764770507812500, VMPEAK ,    8292 , time , 193332 
+compiler , rhino-nojit , testcase , iter-double-linked-list , package , 9203.052429199218750000, core , 6985.155487060546875000, gpu ,  0 , dram ,  1698.142547607421875000, VMPEAK ,    8292 , time , 194060 

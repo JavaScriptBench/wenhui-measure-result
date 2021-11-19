@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , hermes-gengc , testcase , array-findIndex , package , 157.250061035156250000, core , 118.992630004882812500, gpu ,  0 , dram ,  29.496429443359375000, VMPEAK ,    8292 , time , 3373 
+compiler , hermes-gengc , testcase , array-findIndex , package , 157.143692016601562500, core , 118.980438232421875000, gpu ,  0 , dram ,  29.396942138671875000, VMPEAK ,    8292 , time , 3359 
+compiler , hermes-gengc , testcase , array-findIndex , package , 157.370513916015625000, core , 119.164093017578125000, gpu ,  0 , dram ,  29.486007690429687500, VMPEAK ,    8292 , time , 3362 
+compiler , hermes-gengc , testcase , array-findIndex , package , 157.455581665039062500, core , 119.222274780273437500, gpu ,  0 , dram ,  29.431930541992187500, VMPEAK ,    8292 , time , 3362 
+compiler , hermes-gengc , testcase , array-findIndex , package , 157.754058837890625000, core , 119.469970703125000000, gpu ,  0 , dram ,  29.476898193359375000, VMPEAK ,    8292 , time , 3365 
+compiler , hermes-gengc , testcase , array-findIndex , package , 157.750274658203125000, core , 119.472259521484375000, gpu ,  0 , dram ,  29.431518554687500000, VMPEAK ,    8292 , time , 3364 
+compiler , hermes-gengc , testcase , array-findIndex , package , 157.958786010742187500, core , 119.703033447265625000, gpu ,  0 , dram ,  29.369613647460937500, VMPEAK ,    8292 , time , 3363 
+compiler , hermes-gengc , testcase , array-findIndex , package , 158.095581054687500000, core , 119.853713989257812500, gpu ,  0 , dram ,  29.431884765625000000, VMPEAK ,    8292 , time , 3360 
+compiler , hermes-gengc , testcase , array-findIndex , package , 158.333480834960937500, core , 120.047485351562500000, gpu ,  0 , dram ,  29.458343505859375000, VMPEAK ,    8292 , time , 3365 
+compiler , hermes-gengc , testcase , array-findIndex , package , 158.350784301757812500, core , 120.079284667968750000, gpu ,  0 , dram ,  29.356994628906250000, VMPEAK ,    8292 , time , 3365 

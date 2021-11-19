@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , jsc , testcase , strconcat , package , 20.976638793945312500, core , 15.635726928710937500, gpu ,  0 , dram ,  4.485046386718750000, VMPEAK ,    8292 , time , 453 
+compiler , jsc , testcase , strconcat , package , 23.197769165039062500, core , 17.365921020507812500, gpu ,  0 , dram ,  4.845855712890625000, VMPEAK ,    8292 , time , 496 
+compiler , jsc , testcase , strconcat , package , 23.434906005859375000, core , 17.543075561523437500, gpu ,  0 , dram ,  4.882064819335937500, VMPEAK ,    8292 , time , 502 
+compiler , jsc , testcase , strconcat , package , 23.037002563476562500, core , 17.243606567382812500, gpu ,  0 , dram ,  4.879440307617187500, VMPEAK ,    8292 , time , 492 
+compiler , jsc , testcase , strconcat , package , 22.768142700195312500, core , 17.040100097656250000, gpu ,  0 , dram ,  4.757019042968750000, VMPEAK ,    8292 , time , 486 
+compiler , jsc , testcase , strconcat , package , 22.460144042968750000, core , 16.810775756835937500, gpu ,  0 , dram ,  4.755203247070312500, VMPEAK ,    8292 , time , 479 
+compiler , jsc , testcase , strconcat , package , 22.717025756835937500, core , 17.000808715820312500, gpu ,  0 , dram ,  4.741897583007812500, VMPEAK ,    8292 , time , 486 
+compiler , jsc , testcase , strconcat , package , 22.361114501953125000, core , 16.772186279296875000, gpu ,  0 , dram ,  4.695877075195312500, VMPEAK ,    8292 , time , 477 
+compiler , jsc , testcase , strconcat , package , 22.194824218750000000, core , 16.613555908203125000, gpu ,  0 , dram ,  4.656280517578125000, VMPEAK ,    8292 , time , 474 
+compiler , jsc , testcase , strconcat , package , 23.156463623046875000, core , 17.336349487304687500, gpu ,  0 , dram ,  4.849853515625000000, VMPEAK ,    8292 , time , 494 

@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , espruino , testcase , binary-trees , package , 0.301467895507812500, core , 0.164627075195312500, gpu ,  0 , dram ,  0.106109619140625000, VMPEAK ,    8292 , time , 12 
+compiler , espruino , testcase , binary-trees , package , 0.277542114257812500, core , 0.208892822265625000, gpu ,  0 , dram ,  0.053039550781250000, VMPEAK ,    8292 , time , 5 
+compiler , espruino , testcase , binary-trees , package , 0.277328491210937500, core , 0.208831787109375000, gpu ,  0 , dram ,  0.044204711914062500, VMPEAK ,    8292 , time , 5 
+compiler , espruino , testcase , binary-trees , package , 0.231689453125000000, core , 0.174743652343750000, gpu ,  0 , dram ,  0.044204711914062500, VMPEAK ,    8292 , time , 5 
+compiler , espruino , testcase , binary-trees , package , 0.278762817382812500, core , 0.210144042968750000, gpu ,  0 , dram ,  0.053039550781250000, VMPEAK ,    8292 , time , 5 
+compiler , espruino , testcase , binary-trees , package , 0.232223510742187500, core , 0.175155639648437500, gpu ,  0 , dram ,  0.044235229492187500, VMPEAK ,    8292 , time , 5 
+compiler , espruino , testcase , binary-trees , package , 0.232284545898437500, core , 0.175277709960937500, gpu ,  0 , dram ,  0.044235229492187500, VMPEAK ,    8292 , time , 5 
+compiler , espruino , testcase , binary-trees , package , 0.277923583984375000, core , 0.209442138671875000, gpu ,  0 , dram ,  0.053054809570312500, VMPEAK ,    8292 , time , 5 
+compiler , espruino , testcase , binary-trees , package , 0.232070922851562500, core , 0.175170898437500000, gpu ,  0 , dram ,  0.044235229492187500, VMPEAK ,    8292 , time , 5 
+compiler , espruino , testcase , binary-trees , package , 0.233062744140625000, core , 0.175811767578125000, gpu ,  0 , dram ,  0.044250488281250000, VMPEAK ,    8292 , time , 5 
