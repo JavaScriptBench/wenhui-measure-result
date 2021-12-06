@@ -1,21 +1,26 @@
 #!/bin/bash
 
-touch result-pkg-energy.txt
-chmod 755 result-pkg-energy.txt
-./run_pkg_energy.sh > result-pkg-energy.txt
+set -m 
+set -x
 
-touch result-cpucore-energy.txt
-chmod 755 result-cpucore-energy.txt
-./run_cpucore_energy.sh > result-cpucore-energy.txt
+cp -R ../node1-1804 ../output
 
-touch result-dram-energy.txt
-chmod 755 result-dram-energy.txt
-./run_dram_energy.sh > result-dram-energy.txt
+touch ../output/result-pkg-energy.txt
+chmod 755 ../output/result-pkg-energy.txt
+./run_pkg_energy.sh > ../output/result-pkg-energy.txt
 
-touch result-mem.txt
-chmod 755 result-mem.txt
-./run_mem.sh > result-mem.txt
+touch ../output/result-cpucore-energy.txt
+chmod 755 ../output/result-cpucore-energy.txt
+./run_cpucore_energy.sh > ../output/result-cpucore-energy.txt
 
-touch result-time.txt
-chmod 755 result-time.txt
-./run_time.sh > result-time.txt
+touch ../output/result-dram-energy.txt
+chmod 755 ../output/result-dram-energy.txt
+./run_dram_energy.sh > ../output/result-dram-energy.txt
+
+touch ../output/result-mem.txt
+chmod 755 ../output/result-mem.txt
+./run_mem.sh > ../output/result-mem.txt
+
+touch ../output/result-time.txt
+chmod 755 ../output/result-time.txt
+./run_time.sh > ../output/result-time.txt
