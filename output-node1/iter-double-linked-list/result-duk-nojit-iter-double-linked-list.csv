@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , duk , testcase , iter-double-linked-list , package , 345.501235961914062500, core , 215.969177246093750000, gpu ,  0 , dram ,  46.055740356445312500, VMPEAK ,    8236 , time , 8939 
+compiler , duk , testcase , iter-double-linked-list , package , 340.812606811523437500, core , 216.908859252929687500, gpu ,  0 , dram ,  43.801971435546875000, VMPEAK ,    8236 , time , 8540 
+compiler , duk , testcase , iter-double-linked-list , package , 341.893676757812500000, core , 217.903427124023437500, gpu ,  0 , dram ,  44.050796508789062500, VMPEAK ,    8236 , time , 8539 
+compiler , duk , testcase , iter-double-linked-list , package , 343.739868164062500000, core , 219.060836791992187500, gpu ,  0 , dram ,  44.012115478515625000, VMPEAK ,    8236 , time , 8577 
+compiler , duk , testcase , iter-double-linked-list , package , 343.778945922851562500, core , 219.198562622070312500, gpu ,  0 , dram ,  44.263687133789062500, VMPEAK ,    8236 , time , 8566 
+compiler , duk , testcase , iter-double-linked-list , package , 344.279479980468750000, core , 219.664672851562500000, gpu ,  0 , dram ,  44.178024291992187500, VMPEAK ,    8236 , time , 8562 
+compiler , duk , testcase , iter-double-linked-list , package , 345.059890747070312500, core , 220.593276977539062500, gpu ,  0 , dram ,  44.342910766601562500, VMPEAK ,    8236 , time , 8561 
+compiler , duk , testcase , iter-double-linked-list , package , 344.368972778320312500, core , 220.208786010742187500, gpu ,  0 , dram ,  44.579544067382812500, VMPEAK ,    8236 , time , 8542 
+compiler , duk , testcase , iter-double-linked-list , package , 348.482131958007812500, core , 223.099304199218750000, gpu ,  0 , dram ,  44.414321899414062500, VMPEAK ,    8236 , time , 8633 
+compiler , duk , testcase , iter-double-linked-list , package , 344.975219726562500000, core , 220.861129760742187500, gpu ,  0 , dram ,  44.030303955078125000, VMPEAK ,    8236 , time , 8542 

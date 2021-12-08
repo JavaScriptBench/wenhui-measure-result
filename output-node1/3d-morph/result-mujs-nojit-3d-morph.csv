@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , mujs , testcase , 3d-morph , package , 504.439025878906250000, core , 317.377990722656250000, gpu ,  0 , dram ,  69.074905395507812500, VMPEAK ,    8236 , time , 12826 
+compiler , mujs , testcase , 3d-morph , package , 506.780731201171875000, core , 322.504272460937500000, gpu ,  0 , dram ,  67.069442749023437500, VMPEAK ,    8236 , time , 12634 
+compiler , mujs , testcase , 3d-morph , package , 504.044296264648437500, core , 320.407669067382812500, gpu ,  0 , dram ,  66.914657592773437500, VMPEAK ,    8236 , time , 12602 
+compiler , mujs , testcase , 3d-morph , package , 512.499923706054687500, core , 325.646743774414062500, gpu ,  0 , dram ,  68.386077880859375000, VMPEAK ,    8236 , time , 12829 
+compiler , mujs , testcase , 3d-morph , package , 509.186019897460937500, core , 323.753509521484375000, gpu ,  0 , dram ,  67.909057617187500000, VMPEAK ,    8236 , time , 12738 
+compiler , mujs , testcase , 3d-morph , package , 505.738922119140625000, core , 321.165588378906250000, gpu ,  0 , dram ,  67.213119506835937500, VMPEAK ,    8236 , time , 12688 
+compiler , mujs , testcase , 3d-morph , package , 510.854278564453125000, core , 324.382843017578125000, gpu ,  0 , dram ,  68.527221679687500000, VMPEAK ,    8236 , time , 12816 
+compiler , mujs , testcase , 3d-morph , package , 502.639923095703125000, core , 319.260009765625000000, gpu ,  0 , dram ,  66.924743652343750000, VMPEAK ,    8236 , time , 12591 
+compiler , mujs , testcase , 3d-morph , package , 507.507263183593750000, core , 322.634201049804687500, gpu ,  0 , dram ,  67.465103149414062500, VMPEAK ,    8236 , time , 12688 
+compiler , mujs , testcase , 3d-morph , package , 521.394577026367187500, core , 331.767562866210937500, gpu ,  0 , dram ,  69.474639892578125000, VMPEAK ,    8236 , time , 13007 

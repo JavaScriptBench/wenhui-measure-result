@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , js-52 , testcase , double-linked-list , package , 1369.091873168945312500, core , -64653.870529174804687500, gpu ,  0 , dram ,  171.859985351562500000, VMPEAK ,    8236 , time , 33457 
+compiler , js-52 , testcase , double-linked-list , package , 1394.299163818359375000, core , 904.148773193359375000, gpu ,  0 , dram ,  174.132644653320312500, VMPEAK ,    8236 , time , 33607 
+compiler , js-52 , testcase , double-linked-list , package , 1405.526657104492187500, core , 911.553054809570312500, gpu ,  0 , dram ,  173.180892944335937500, VMPEAK ,    8236 , time , 33817 
+compiler , js-52 , testcase , double-linked-list , package , 1364.163406372070312500, core , 884.636810302734375000, gpu ,  0 , dram ,  171.106567382812500000, VMPEAK ,    8236 , time , 32790 
+compiler , js-52 , testcase , double-linked-list , package , 1370.779846191406250000, core , 890.717346191406250000, gpu ,  0 , dram ,  168.330612182617187500, VMPEAK ,    8236 , time , 32807 
+compiler , js-52 , testcase , double-linked-list , package , 1367.165649414062500000, core , 887.316497802734375000, gpu ,  0 , dram ,  169.396820068359375000, VMPEAK ,    8236 , time , 32745 
+compiler , js-52 , testcase , double-linked-list , package , 1370.917266845703125000, core , 889.316513061523437500, gpu ,  0 , dram ,  171.380462646484375000, VMPEAK ,    8236 , time , 32835 
+compiler , js-52 , testcase , double-linked-list , package , 1372.520385742187500000, core , 891.092285156250000000, gpu ,  0 , dram ,  169.866882324218750000, VMPEAK ,    8236 , time , 32805 
+compiler , js-52 , testcase , double-linked-list , package , 1376.170730590820312500, core , 893.435180664062500000, gpu ,  0 , dram ,  170.136795043945312500, VMPEAK ,    8236 , time , 32891 
+compiler , js-52 , testcase , double-linked-list , package , 1394.868515014648437500, core , 905.665618896484375000, gpu ,  0 , dram ,  173.154022216796875000, VMPEAK ,    8236 , time , 33333 

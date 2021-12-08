@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , hermes-malloc , testcase , array-some , package , 133.317687988281250000, core , 100.918838500976562500, gpu ,  0 , dram ,  24.902496337890625000, VMPEAK ,    8292 , time , 2851 
+compiler , hermes-malloc , testcase , array-some , package , 133.252120971679687500, core , 100.975143432617187500, gpu ,  0 , dram ,  24.760192871093750000, VMPEAK ,    8292 , time , 2837 
+compiler , hermes-malloc , testcase , array-some , package , 133.162689208984375000, core , 100.931213378906250000, gpu ,  0 , dram ,  24.822586059570312500, VMPEAK ,    8292 , time , 2833 
+compiler , hermes-malloc , testcase , array-some , package , 133.420822143554687500, core , 101.121643066406250000, gpu ,  0 , dram ,  24.849212646484375000, VMPEAK ,    8292 , time , 2839 
+compiler , hermes-malloc , testcase , array-some , package , 133.532852172851562500, core , 101.246780395507812500, gpu ,  0 , dram ,  24.849182128906250000, VMPEAK ,    8292 , time , 2839 
+compiler , hermes-malloc , testcase , array-some , package , 133.995178222656250000, core , 101.600524902343750000, gpu ,  0 , dram ,  24.938171386718750000, VMPEAK ,    8292 , time , 2848 
+compiler , hermes-malloc , testcase , array-some , package , 133.952377319335937500, core , 101.574020385742187500, gpu ,  0 , dram ,  24.857971191406250000, VMPEAK ,    8292 , time , 2846 
+compiler , hermes-malloc , testcase , array-some , package , 134.122024536132812500, core , 101.733749389648437500, gpu ,  0 , dram ,  24.883331298828125000, VMPEAK ,    8292 , time , 2848 
+compiler , hermes-malloc , testcase , array-some , package , 134.018295288085937500, core , 101.672485351562500000, gpu ,  0 , dram ,  24.872039794921875000, VMPEAK ,    8292 , time , 2842 
+compiler , hermes-malloc , testcase , array-some , package , 134.720779418945312500, core , 102.202636718750000000, gpu ,  0 , dram ,  25.087310791015625000, VMPEAK ,    8292 , time , 2859 

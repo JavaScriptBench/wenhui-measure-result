@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , rhino-nojit , testcase , 3d-cube , package , 14687.528564453125000000, core , 11148.898315429687500000, gpu ,  0 , dram ,  2708.913238525390625000, VMPEAK ,    8292 , time , 309773 
+compiler , rhino-nojit , testcase , 3d-cube , package , 14781.611999511718750000, core , 11222.577575683593750000, gpu ,  0 , dram ,  2721.598083496093750000, VMPEAK ,    8292 , time , 311286 
+compiler , rhino-nojit , testcase , 3d-cube , package , -50807.104400634765625000, core , 11179.816787719726562500, gpu ,  0 , dram ,  2712.229660034179687500, VMPEAK ,    8292 , time , 310239 
+compiler , rhino-nojit , testcase , 3d-cube , package , 14711.953628540039062500, core , 11169.476837158203125000, gpu ,  0 , dram ,  2705.240570068359375000, VMPEAK ,    8292 , time , 309597 
+compiler , rhino-nojit , testcase , 3d-cube , package , 14620.561676025390625000, core , -54439.195663452148437500, gpu ,  0 , dram ,  2692.911300659179687500, VMPEAK ,    8292 , time , 308093 
+compiler , rhino-nojit , testcase , 3d-cube , package , 14618.421157836914062500, core , 11097.413467407226562500, gpu ,  0 , dram ,  2691.723220825195312500, VMPEAK ,    8292 , time , 307861 
+compiler , rhino-nojit , testcase , 3d-cube , package , -50766.892364501953125000, core , 11212.141220092773437500, gpu ,  0 , dram ,  2718.348510742187500000, VMPEAK ,    8292 , time , 310926 
+compiler , rhino-nojit , testcase , 3d-cube , package , 14661.917312622070312500, core , 11129.924545288085937500, gpu ,  0 , dram ,  2698.592498779296875000, VMPEAK ,    8292 , time , 308614 
+compiler , rhino-nojit , testcase , 3d-cube , package , 14727.870376586914062500, core , 11178.584106445312500000, gpu ,  0 , dram ,  2712.974456787109375000, VMPEAK ,    8292 , time , 310253 
+compiler , rhino-nojit , testcase , 3d-cube , package , 14686.569198608398437500, core , 11148.427932739257812500, gpu ,  0 , dram ,  2705.297622680664062500, VMPEAK ,    8292 , time , 309298 

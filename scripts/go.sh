@@ -3,7 +3,7 @@
 set -m 
 set -x
 
-cp -R ../node1-1804 ../output
+cp -R ../node2-1804 ../output
 
 touch ../output/result-pkg-energy.txt
 chmod 755 ../output/result-pkg-energy.txt

@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , hermes-malloc , testcase , double-linked-list , package , -51451.291473388671875000, core , -56440.207595825195312500, gpu ,  0 , dram ,  1783.870223999023437500, VMPEAK ,    8236 , time , 340811 
+compiler , hermes-malloc , testcase , double-linked-list , package , 14102.855850219726562500, core , 9119.019302368164062500, gpu ,  0 , dram ,  1802.867034912109375000, VMPEAK ,    8236 , time , 339672 
+compiler , hermes-malloc , testcase , double-linked-list , package , 14118.584274291992187500, core , 9130.244262695312500000, gpu ,  0 , dram ,  1808.972000122070312500, VMPEAK ,    8236 , time , 339967 
+compiler , hermes-malloc , testcase , double-linked-list , package , 14083.911437988281250000, core , 9104.122665405273437500, gpu ,  0 , dram ,  1787.160537719726562500, VMPEAK ,    8236 , time , 339604 
+compiler , hermes-malloc , testcase , double-linked-list , package , 14174.005950927734375000, core , 9167.056976318359375000, gpu ,  0 , dram ,  1806.712463378906250000, VMPEAK ,    8236 , time , 341287 
+compiler , hermes-malloc , testcase , double-linked-list , package , -51426.302139282226562500, core , 9128.509658813476562500, gpu ,  0 , dram ,  1799.095382690429687500, VMPEAK ,    8236 , time , 339593 
+compiler , hermes-malloc , testcase , double-linked-list , package , 14110.925994873046875000, core , 9123.255874633789062500, gpu ,  0 , dram ,  -63729.709228515625000000, VMPEAK ,    8236 , time , 340115 
+compiler , hermes-malloc , testcase , double-linked-list , package , 14114.094909667968750000, core , -56410.511535644531250000, gpu ,  0 , dram ,  1800.204986572265625000, VMPEAK ,    8236 , time , 340071 
+compiler , hermes-malloc , testcase , double-linked-list , package , 14183.844207763671875000, core , 9173.070571899414062500, gpu ,  0 , dram ,  1804.671340942382812500, VMPEAK ,    8236 , time , 341441 
+compiler , hermes-malloc , testcase , double-linked-list , package , -51412.018295288085937500, core , 9131.706878662109375000, gpu ,  0 , dram ,  1785.909179687500000000, VMPEAK ,    8236 , time , 340185 

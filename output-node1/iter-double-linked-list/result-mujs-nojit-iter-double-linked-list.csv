@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , mujs , testcase , iter-double-linked-list , package , 212.105453491210937500, core , 133.584152221679687500, gpu ,  0 , dram ,  27.647781372070312500, VMPEAK ,    8236 , time , 5452 
+compiler , mujs , testcase , iter-double-linked-list , package , 216.216384887695312500, core , 136.383071899414062500, gpu ,  0 , dram ,  28.179092407226562500, VMPEAK ,    8236 , time , 5539 
+compiler , mujs , testcase , iter-double-linked-list , package , 212.187973022460937500, core , 133.992706298828125000, gpu ,  0 , dram ,  27.455200195312500000, VMPEAK ,    8236 , time , 5422 
+compiler , mujs , testcase , iter-double-linked-list , package , 204.290588378906250000, core , 129.190490722656250000, gpu ,  0 , dram ,  26.393661499023437500, VMPEAK ,    8236 , time , 5200 
+compiler , mujs , testcase , iter-double-linked-list , package , 199.769592285156250000, core , 126.512390136718750000, gpu ,  0 , dram ,  25.639236450195312500, VMPEAK ,    8236 , time , 5071 
+compiler , mujs , testcase , iter-double-linked-list , package , 201.563842773437500000, core , 127.653427124023437500, gpu ,  0 , dram ,  26.135162353515625000, VMPEAK ,    8236 , time , 5115 
+compiler , mujs , testcase , iter-double-linked-list , package , 203.982101440429687500, core , 129.198150634765625000, gpu ,  0 , dram ,  26.389663696289062500, VMPEAK ,    8236 , time , 5177 
+compiler , mujs , testcase , iter-double-linked-list , package , 217.954437255859375000, core , 137.805999755859375000, gpu ,  0 , dram ,  28.320205688476562500, VMPEAK ,    8236 , time , 5555 
+compiler , mujs , testcase , iter-double-linked-list , package , 211.675537109375000000, core , 133.830947875976562500, gpu ,  0 , dram ,  27.725448608398437500, VMPEAK ,    8236 , time , 5396 
+compiler , mujs , testcase , iter-double-linked-list , package , 197.777313232421875000, core , 125.443466186523437500, gpu ,  0 , dram ,  25.445449829101562500, VMPEAK ,    8236 , time , 5012 

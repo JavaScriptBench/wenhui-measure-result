@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , hermes-hades , testcase , array-findIndex , package , 122.767120361328125000, core , 92.966064453125000000, gpu ,  0 , dram ,  22.963256835937500000, VMPEAK ,    8292 , time , 2625 
+compiler , hermes-hades , testcase , array-findIndex , package , 123.067855834960937500, core , 93.234939575195312500, gpu ,  0 , dram ,  23.008422851562500000, VMPEAK ,    8292 , time , 2625 
+compiler , hermes-hades , testcase , array-findIndex , package , 122.707412719726562500, core , 92.954498291015625000, gpu ,  0 , dram ,  22.946502685546875000, VMPEAK ,    8292 , time , 2619 
+compiler , hermes-hades , testcase , array-findIndex , package , 123.125091552734375000, core , 93.277572631835937500, gpu ,  0 , dram ,  22.955047607421875000, VMPEAK ,    8292 , time , 2626 
+compiler , hermes-hades , testcase , array-findIndex , package , 122.926422119140625000, core , 93.144638061523437500, gpu ,  0 , dram ,  22.909835815429687500, VMPEAK ,    8292 , time , 2618 
+compiler , hermes-hades , testcase , array-findIndex , package , 123.140747070312500000, core , 93.309051513671875000, gpu ,  0 , dram ,  22.883468627929687500, VMPEAK ,    8292 , time , 2623 
+compiler , hermes-hades , testcase , array-findIndex , package , 123.650268554687500000, core , 93.688659667968750000, gpu ,  0 , dram ,  22.963211059570312500, VMPEAK ,    8292 , time , 2633 
+compiler , hermes-hades , testcase , array-findIndex , package , 123.250061035156250000, core , 93.440200805664062500, gpu ,  0 , dram ,  23.027542114257812500, VMPEAK ,    8292 , time , 2624 
+compiler , hermes-hades , testcase , array-findIndex , package , 123.116912841796875000, core , 93.324401855468750000, gpu ,  0 , dram ,  22.893188476562500000, VMPEAK ,    8292 , time , 2619 
+compiler , hermes-hades , testcase , array-findIndex , package , 123.325622558593750000, core , 93.502120971679687500, gpu ,  0 , dram ,  22.891677856445312500, VMPEAK ,    8292 , time , 2621 

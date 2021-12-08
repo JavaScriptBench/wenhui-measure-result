@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , js , testcase , 3d-cube , package , 126.481765747070312500, core , 95.208297729492187500, gpu ,  0 , dram ,  24.192443847656250000, VMPEAK ,    8292 , time , 2731 
+compiler , js , testcase , 3d-cube , package , 120.239105224609375000, core , 90.667984008789062500, gpu ,  0 , dram ,  22.884185791015625000, VMPEAK ,    8292 , time , 2585 
+compiler , js , testcase , 3d-cube , package , 108.485198974609375000, core , 81.768035888671875000, gpu ,  0 , dram ,  20.801956176757812500, VMPEAK ,    8292 , time , 2331 
+compiler , js , testcase , 3d-cube , package , 111.505493164062500000, core , 84.052703857421875000, gpu ,  0 , dram ,  21.336975097656250000, VMPEAK ,    8292 , time , 2397 
+compiler , js , testcase , 3d-cube , package , 117.467926025390625000, core , 88.563293457031250000, gpu ,  0 , dram ,  22.488311767578125000, VMPEAK ,    8292 , time , 2523 
+compiler , js , testcase , 3d-cube , package , 121.919174194335937500, core , 91.897750854492187500, gpu ,  0 , dram ,  23.442428588867187500, VMPEAK ,    8292 , time , 2621 
+compiler , js , testcase , 3d-cube , package , 125.924468994140625000, core , 94.938293457031250000, gpu ,  0 , dram ,  24.025711059570312500, VMPEAK ,    8292 , time , 2704 
+compiler , js , testcase , 3d-cube , package , 111.428543090820312500, core , 84.007232666015625000, gpu ,  0 , dram ,  21.396179199218750000, VMPEAK ,    8292 , time , 2392 
+compiler , js , testcase , 3d-cube , package , 112.435394287109375000, core , 84.788558959960937500, gpu ,  0 , dram ,  21.624435424804687500, VMPEAK ,    8292 , time , 2411 
+compiler , js , testcase , 3d-cube , package , 113.635498046875000000, core , 85.691055297851562500, gpu ,  0 , dram ,  21.786605834960937500, VMPEAK ,    8292 , time , 2437 

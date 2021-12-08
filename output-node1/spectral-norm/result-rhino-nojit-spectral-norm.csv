@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , rhino-nojit , testcase , spectral-norm , package , 20967.968627929687500000, core , 13431.177963256835937500, gpu ,  0 , dram ,  3205.240447998046875000, VMPEAK ,    8236 , time , 517125 
+compiler , rhino-nojit , testcase , spectral-norm , package , 21342.488357543945312500, core , 13754.890747070312500000, gpu ,  0 , dram ,  3208.109405517578125000, VMPEAK ,    8236 , time , 516717 
+compiler , rhino-nojit , testcase , spectral-norm , package , -44171.320907592773437500, core , 13763.975021362304687500, gpu ,  0 , dram ,  3210.683044433593750000, VMPEAK ,    8236 , time , 517592 
+compiler , rhino-nojit , testcase , spectral-norm , package , 21403.052459716796875000, core , -51750.724319458007812500, gpu ,  0 , dram ,  3214.524536132812500000, VMPEAK ,    8236 , time , 518716 
+compiler , rhino-nojit , testcase , spectral-norm , package , 21474.185104370117187500, core , 13834.567092895507812500, gpu ,  0 , dram ,  3227.204757690429687500, VMPEAK ,    8236 , time , 520501 
+compiler , rhino-nojit , testcase , spectral-norm , package , -44247.373153686523437500, core , 13711.137557983398437500, gpu ,  0 , dram ,  3197.014053344726562500, VMPEAK ,    8236 , time , 516251 
+compiler , rhino-nojit , testcase , spectral-norm , package , 21349.007507324218750000, core , 13752.867263793945312500, gpu ,  0 , dram ,  3203.004699707031250000, VMPEAK ,    8236 , time , 517331 
+compiler , rhino-nojit , testcase , spectral-norm , package , 21385.355026245117187500, core , -51762.261428833007812500, gpu ,  0 , dram ,  3210.638320922851562500, VMPEAK ,    8236 , time , 518616 
+compiler , rhino-nojit , testcase , spectral-norm , package , -44294.054489135742187500, core , 13681.226730346679687500, gpu ,  0 , dram ,  3188.606353759765625000, VMPEAK ,    8236 , time , 515007 
+compiler , rhino-nojit , testcase , spectral-norm , package , 21324.427963256835937500, core , 13734.054229736328125000, gpu ,  0 , dram ,  3203.663101196289062500, VMPEAK ,    8236 , time , 516893 

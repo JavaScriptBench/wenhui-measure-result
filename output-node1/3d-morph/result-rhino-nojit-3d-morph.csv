@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , rhino-nojit , testcase , 3d-morph , package , 7727.157745361328125000, core , 4951.133148193359375000, gpu ,  0 , dram ,  1174.151962280273437500, VMPEAK ,    8236 , time , 190625 
+compiler , rhino-nojit , testcase , 3d-morph , package , 7757.838928222656250000, core , 4994.538909912109375000, gpu ,  0 , dram ,  1166.411788940429687500, VMPEAK ,    8236 , time , 188593 
+compiler , rhino-nojit , testcase , 3d-morph , package , 7927.535354614257812500, core , 5107.929504394531250000, gpu ,  0 , dram ,  1189.945571899414062500, VMPEAK ,    8236 , time , 191995 
+compiler , rhino-nojit , testcase , 3d-morph , package , -57756.428054809570312500, core , 5016.233810424804687500, gpu ,  0 , dram ,  1154.812408447265625000, VMPEAK ,    8236 , time , 188033 
+compiler , rhino-nojit , testcase , 3d-morph , package , 7904.226303100585937500, core , 5097.889266967773437500, gpu ,  0 , dram ,  1179.618896484375000000, VMPEAK ,    8236 , time , 190984 
+compiler , rhino-nojit , testcase , 3d-morph , package , 7884.243118286132812500, core , 5081.112014770507812500, gpu ,  0 , dram ,  1183.214462280273437500, VMPEAK ,    8236 , time , 190711 
+compiler , rhino-nojit , testcase , 3d-morph , package , 7917.207153320312500000, core , 5104.219573974609375000, gpu ,  0 , dram ,  1187.056823730468750000, VMPEAK ,    8236 , time , 191346 
+compiler , rhino-nojit , testcase , 3d-morph , package , 7922.239868164062500000, core , 5107.783309936523437500, gpu ,  0 , dram ,  1187.324127197265625000, VMPEAK ,    8236 , time , 191454 
+compiler , rhino-nojit , testcase , 3d-morph , package , 7893.911117553710937500, core , 5087.770950317382812500, gpu ,  0 , dram ,  1184.765884399414062500, VMPEAK ,    8236 , time , 190895 
+compiler , rhino-nojit , testcase , 3d-morph , package , 7872.740417480468750000, core , 5073.778701782226562500, gpu ,  0 , dram ,  1182.051254272460937500, VMPEAK ,    8236 , time , 190373 

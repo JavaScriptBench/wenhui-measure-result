@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , rhino-nojit , testcase , 3d-cube , package , 13708.991333007812500000, core , 8810.085693359375000000, gpu ,  0 , dram ,  2028.622543334960937500, VMPEAK ,    8236 , time , 334171 
+compiler , rhino-nojit , testcase , 3d-cube , package , 13763.885528564453125000, core , 8861.842391967773437500, gpu ,  0 , dram ,  2030.838424682617187500, VMPEAK ,    8236 , time , 333827 
+compiler , rhino-nojit , testcase , 3d-cube , package , 13848.584869384765625000, core , 8910.522109985351562500, gpu ,  0 , dram ,  2025.894042968750000000, VMPEAK ,    8236 , time , 336167 
+compiler , rhino-nojit , testcase , 3d-cube , package , -51768.565673828125000000, core , 8862.555496215820312500, gpu ,  0 , dram ,  -63502.552856445312500000, VMPEAK ,    8236 , time , 333766 
+compiler , rhino-nojit , testcase , 3d-cube , package , 13699.119018554687500000, core , -56714.144241333007812500, gpu ,  0 , dram ,  2031.862503051757812500, VMPEAK ,    8236 , time , 331975 
+compiler , rhino-nojit , testcase , 3d-cube , package , 13778.802047729492187500, core , 8872.917098999023437500, gpu ,  0 , dram ,  2021.652832031250000000, VMPEAK ,    8236 , time , 333755 
+compiler , rhino-nojit , testcase , 3d-cube , package , 13789.345870971679687500, core , 8880.188522338867187500, gpu ,  0 , dram ,  2053.112701416015625000, VMPEAK ,    8236 , time , 334090 
+compiler , rhino-nojit , testcase , 3d-cube , package , 13818.437835693359375000, core , 8897.379959106445312500, gpu ,  0 , dram ,  2068.505538940429687500, VMPEAK ,    8236 , time , 334998 
+compiler , rhino-nojit , testcase , 3d-cube , package , -51761.447402954101562500, core , 8865.850265502929687500, gpu ,  0 , dram ,  2054.251174926757812500, VMPEAK ,    8236 , time , 334075 
+compiler , rhino-nojit , testcase , 3d-cube , package , 13799.081954956054687500, core , 8881.125152587890625000, gpu ,  0 , dram ,  2070.585235595703125000, VMPEAK ,    8236 , time , 334536 

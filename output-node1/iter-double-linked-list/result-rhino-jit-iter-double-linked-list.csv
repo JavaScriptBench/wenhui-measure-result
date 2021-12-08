@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , rhino-jit , testcase , iter-double-linked-list , package , 165.064605712890625000, core , 100.933319091796875000, gpu ,  0 , dram ,  30.433105468750000000, VMPEAK ,    8236 , time , 4393 
+compiler , rhino-jit , testcase , iter-double-linked-list , package , 160.959869384765625000, core , 101.805709838867187500, gpu ,  0 , dram ,  28.600708007812500000, VMPEAK ,    8236 , time , 4051 
+compiler , rhino-jit , testcase , iter-double-linked-list , package , 168.571105957031250000, core , 106.757431030273437500, gpu ,  0 , dram ,  29.898910522460937500, VMPEAK ,    8236 , time , 4231 
+compiler , rhino-jit , testcase , iter-double-linked-list , package , 162.114074707031250000, core , 102.819747924804687500, gpu ,  0 , dram ,  28.466629028320312500, VMPEAK ,    8236 , time , 4058 
+compiler , rhino-jit , testcase , iter-double-linked-list , package , 159.036727905273437500, core , 100.722640991210937500, gpu ,  0 , dram ,  27.819259643554687500, VMPEAK ,    8236 , time , 3987 
+compiler , rhino-jit , testcase , iter-double-linked-list , package , 162.642135620117187500, core , 103.034667968750000000, gpu ,  0 , dram ,  28.465148925781250000, VMPEAK ,    8236 , time , 4072 
+compiler , rhino-jit , testcase , iter-double-linked-list , package , 171.527786254882812500, core , 108.861221313476562500, gpu ,  0 , dram ,  30.132522583007812500, VMPEAK ,    8236 , time , 4284 
+compiler , rhino-jit , testcase , iter-double-linked-list , package , 162.484558105468750000, core , 103.056900024414062500, gpu ,  0 , dram ,  28.767166137695312500, VMPEAK ,    8236 , time , 4059 
+compiler , rhino-jit , testcase , iter-double-linked-list , package , 163.215026855468750000, core , 103.652648925781250000, gpu ,  0 , dram ,  28.617492675781250000, VMPEAK ,    8236 , time , 4064 
+compiler , rhino-jit , testcase , iter-double-linked-list , package , 161.431762695312500000, core , 102.497894287109375000, gpu ,  0 , dram ,  27.675796508789062500, VMPEAK ,    8236 , time , 4028 

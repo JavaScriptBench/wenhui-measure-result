@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , hermes-malloc , testcase , binary-trees , package , 824.255645751953125000, core , 530.899581909179687500, gpu ,  0 , dram ,  108.834243774414062500, VMPEAK ,    8236 , time , 20148 
+compiler , hermes-malloc , testcase , binary-trees , package , 827.526809692382812500, core , 534.690338134765625000, gpu ,  0 , dram ,  108.917572021484375000, VMPEAK ,    8236 , time , 20092 
+compiler , hermes-malloc , testcase , binary-trees , package , 831.342407226562500000, core , 537.399032592773437500, gpu ,  0 , dram ,  108.974975585937500000, VMPEAK ,    8236 , time , 20155 
+compiler , hermes-malloc , testcase , binary-trees , package , 829.682739257812500000, core , 536.460571289062500000, gpu ,  0 , dram ,  108.620361328125000000, VMPEAK ,    8236 , time , 20083 
+compiler , hermes-malloc , testcase , binary-trees , package , 829.449523925781250000, core , 536.210159301757812500, gpu ,  0 , dram ,  108.764694213867187500, VMPEAK ,    8236 , time , 20072 
+compiler , hermes-malloc , testcase , binary-trees , package , 828.825790405273437500, core , 535.760452270507812500, gpu ,  0 , dram ,  108.718139648437500000, VMPEAK ,    8236 , time , 20058 
+compiler , hermes-malloc , testcase , binary-trees , package , 827.522415161132812500, core , 534.939147949218750000, gpu ,  0 , dram ,  107.826141357421875000, VMPEAK ,    8236 , time , 20017 
+compiler , hermes-malloc , testcase , binary-trees , package , 828.752700805664062500, core , 535.000152587890625000, gpu ,  0 , dram ,  108.273208618164062500, VMPEAK ,    8236 , time , 20086 
+compiler , hermes-malloc , testcase , binary-trees , package , 836.559387207031250000, core , 540.985046386718750000, gpu ,  0 , dram ,  108.395690917968750000, VMPEAK ,    8236 , time , 20202 
+compiler , hermes-malloc , testcase , binary-trees , package , 830.275878906250000000, core , 537.359146118164062500, gpu ,  0 , dram ,  107.240951538085937500, VMPEAK ,    8236 , time , 20021 

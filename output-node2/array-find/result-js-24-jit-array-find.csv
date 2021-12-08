@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , js-24 , testcase , array-find , package , 0.435546875000000000, core , 0.253616333007812500, gpu ,  0 , dram ,  0.132629394531250000, VMPEAK ,    8292 , time , 15 
+compiler , js-24 , testcase , array-find , package , 0.371643066406250000, core , 0.280639648437500000, gpu ,  0 , dram ,  0.070724487304687500, VMPEAK ,    8292 , time , 7 
+compiler , js-24 , testcase , array-find , package , 0.325134277343750000, core , 0.245651245117187500, gpu ,  0 , dram ,  0.061935424804687500, VMPEAK ,    8292 , time , 7 
+compiler , js-24 , testcase , array-find , package , 0.373184204101562500, core , 0.281982421875000000, gpu ,  0 , dram ,  0.070709228515625000, VMPEAK ,    8292 , time , 7 
+compiler , js-24 , testcase , array-find , package , 0.372604370117187500, core , 0.281585693359375000, gpu ,  0 , dram ,  0.070693969726562500, VMPEAK ,    8292 , time , 7 
+compiler , js-24 , testcase , array-find , package , 0.327026367187500000, core , 0.247192382812500000, gpu ,  0 , dram ,  0.061920166015625000, VMPEAK ,    8292 , time , 7 
+compiler , js-24 , testcase , array-find , package , 0.373413085937500000, core , 0.282363891601562500, gpu ,  0 , dram ,  0.070800781250000000, VMPEAK ,    8292 , time , 7 
+compiler , js-24 , testcase , array-find , package , 0.373413085937500000, core , 0.282363891601562500, gpu ,  0 , dram ,  0.070800781250000000, VMPEAK ,    8292 , time , 7 
+compiler , js-24 , testcase , array-find , package , 0.325775146484375000, core , 0.246231079101562500, gpu ,  0 , dram ,  0.061950683593750000, VMPEAK ,    8292 , time , 7 
+compiler , js-24 , testcase , array-find , package , 0.373870849609375000, core , 0.282653808593750000, gpu ,  0 , dram ,  0.070800781250000000, VMPEAK ,    8292 , time , 7 

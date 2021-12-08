@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , hermes-hades , testcase , mandelbrot , package , 5886.421936035156250000, core , 3762.455413818359375000, gpu ,  0 , dram ,  758.333389282226562500, VMPEAK ,    8236 , time , 146667 
+compiler , hermes-hades , testcase , mandelbrot , package , 6008.893615722656250000, core , 3878.615921020507812500, gpu ,  0 , dram ,  762.818313598632812500, VMPEAK ,    8236 , time , 146383 
+compiler , hermes-hades , testcase , mandelbrot , package , 6106.414825439453125000, core , -61584.250015258789062500, gpu ,  0 , dram ,  775.552185058593750000, VMPEAK ,    8236 , time , 147472 
+compiler , hermes-hades , testcase , mandelbrot , package , 6076.748840332031250000, core , 3930.757003784179687500, gpu ,  0 , dram ,  776.960128784179687500, VMPEAK ,    8236 , time , 146479 
+compiler , hermes-hades , testcase , mandelbrot , package , 6094.666870117187500000, core , 3946.083877563476562500, gpu ,  0 , dram ,  778.995498657226562500, VMPEAK ,    8236 , time , 146442 
+compiler , hermes-hades , testcase , mandelbrot , package , 6100.004760742187500000, core , 3951.127105712890625000, gpu ,  0 , dram ,  778.322845458984375000, VMPEAK ,    8236 , time , 146420 
+compiler , hermes-hades , testcase , mandelbrot , package , 6150.169006347656250000, core , 3981.588073730468750000, gpu ,  0 , dram ,  778.948196411132812500, VMPEAK ,    8236 , time , 147725 
+compiler , hermes-hades , testcase , mandelbrot , package , -59423.433868408203125000, core , 3958.687637329101562500, gpu ,  0 , dram ,  778.307144165039062500, VMPEAK ,    8236 , time , 146683 
+compiler , hermes-hades , testcase , mandelbrot , package , 6112.682357788085937500, core , 3958.112197875976562500, gpu ,  0 , dram ,  781.939285278320312500, VMPEAK ,    8236 , time , 146756 
+compiler , hermes-hades , testcase , mandelbrot , package , 6152.482757568359375000, core , 3984.888946533203125000, gpu ,  0 , dram ,  786.877685546875000000, VMPEAK ,    8236 , time , 147705 

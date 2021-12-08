@@ -1,0 +1,11 @@
+Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
+ compiler , hermes-hades , testcase , binary-trees , package , 846.661712646484375000, core , 544.731872558593750000, gpu ,  0 , dram ,  111.624130249023437500, VMPEAK ,    8236 , time , 20768 
+compiler , hermes-hades , testcase , binary-trees , package , 853.635940551757812500, core , 550.005386352539062500, gpu ,  0 , dram ,  112.318511962890625000, VMPEAK ,    8236 , time , 20872 
+compiler , hermes-hades , testcase , binary-trees , package , 856.558502197265625000, core , 552.701965332031250000, gpu ,  0 , dram ,  112.474899291992187500, VMPEAK ,    8236 , time , 20869 
+compiler , hermes-hades , testcase , binary-trees , package , 855.646102905273437500, core , 552.380111694335937500, gpu ,  0 , dram ,  111.867279052734375000, VMPEAK ,    8236 , time , 20814 
+compiler , hermes-hades , testcase , binary-trees , package , 858.416305541992187500, core , 554.571899414062500000, gpu ,  0 , dram ,  112.048019409179687500, VMPEAK ,    8236 , time , 20842 
+compiler , hermes-hades , testcase , binary-trees , package , 857.781860351562500000, core , 554.726272583007812500, gpu ,  0 , dram ,  111.833816528320312500, VMPEAK ,    8236 , time , 20779 
+compiler , hermes-hades , testcase , binary-trees , package , 857.604812622070312500, core , 554.589416503906250000, gpu ,  0 , dram ,  111.636138916015625000, VMPEAK ,    8236 , time , 20761 
+compiler , hermes-hades , testcase , binary-trees , package , 857.236480712890625000, core , 554.005264282226562500, gpu ,  0 , dram ,  111.624938964843750000, VMPEAK ,    8236 , time , 20766 
+compiler , hermes-hades , testcase , binary-trees , package , 856.964614868164062500, core , 553.537292480468750000, gpu ,  0 , dram ,  111.900100708007812500, VMPEAK ,    8236 , time , 20765 
+compiler , hermes-hades , testcase , binary-trees , package , 857.111816406250000000, core , 553.718826293945312500, gpu ,  0 , dram ,  111.695602416992187500, VMPEAK ,    8236 , time , 20756 
