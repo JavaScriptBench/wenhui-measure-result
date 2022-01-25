@@ -144,6 +144,10 @@ if os.path.basename(infile).startswith('result-js-52-jit'):
     compiler = 'js-52-jit'
 if os.path.basename(infile).startswith('result-js-52-nojit'):
     compiler = 'js-52-nojit'
+if os.path.basename(infile).startswith('result-js-jit'):
+    compiler = 'js-jit'
+if os.path.basename(infile).startswith('result-js-nojit'):
+    compiler = 'js-nojit'
 if os.path.basename(infile).startswith('result-jsc-jit'):
     compiler = 'jsc-jit'
 if os.path.basename(infile).startswith('result-jsc-nojit'):
