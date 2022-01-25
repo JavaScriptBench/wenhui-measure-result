@@ -1,11 +1,11 @@
 Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
- compiler , espruino , testcase , array-find , package , 125.734893798828125000, core , 75.831222534179687500, gpu ,  0 , dram ,  18.002288818359375000, VMPEAK ,    8236 , time , 3473 
-compiler , espruino , testcase , array-find , package , 122.894515991210937500, core , 77.247467041015625000, gpu ,  0 , dram ,  16.240737915039062500, VMPEAK ,    8236 , time , 3171 
-compiler , espruino , testcase , array-find , package , 124.701614379882812500, core , 79.018829345703125000, gpu ,  0 , dram ,  16.213348388671875000, VMPEAK ,    8236 , time , 3171 
-compiler , espruino , testcase , array-find , package , 124.292663574218750000, core , 78.542129516601562500, gpu ,  0 , dram ,  16.244873046875000000, VMPEAK ,    8236 , time , 3171 
-compiler , espruino , testcase , array-find , package , 124.674606323242187500, core , 78.489593505859375000, gpu ,  0 , dram ,  16.489700317382812500, VMPEAK ,    8236 , time , 3223 
-compiler , espruino , testcase , array-find , package , 124.159759521484375000, core , 78.563323974609375000, gpu ,  0 , dram ,  16.391418457031250000, VMPEAK ,    8236 , time , 3169 
-compiler , espruino , testcase , array-find , package , 123.731521606445312500, core , 78.005523681640625000, gpu ,  0 , dram ,  16.237472534179687500, VMPEAK ,    8236 , time , 3175 
-compiler , espruino , testcase , array-find , package , 125.000167846679687500, core , 79.165954589843750000, gpu ,  0 , dram ,  16.292602539062500000, VMPEAK ,    8236 , time , 3179 
-compiler , espruino , testcase , array-find , package , 124.601715087890625000, core , 79.152114868164062500, gpu ,  0 , dram ,  16.365997314453125000, VMPEAK ,    8236 , time , 3171 
-compiler , espruino , testcase , array-find , package , 124.360549926757812500, core , 78.983703613281250000, gpu ,  0 , dram ,  16.274444580078125000, VMPEAK ,    8236 , time , 3172 
+ compiler , espruino , testcase , array-find , package , 123.476303100585937500, core , 93.087524414062500000, gpu ,  0 , dram ,  23.377410888671875000, VMPEAK ,    8292 , time , 2672 
+compiler , espruino , testcase , array-find , package , 123.305541992187500000, core , 92.916305541992187500, gpu ,  0 , dram ,  23.368911743164062500, VMPEAK ,    8292 , time , 2672 
+compiler , espruino , testcase , array-find , package , 123.565673828125000000, core , 93.163192749023437500, gpu ,  0 , dram ,  23.386718750000000000, VMPEAK ,    8292 , time , 2671 
+compiler , espruino , testcase , array-find , package , 123.651992797851562500, core , 93.261749267578125000, gpu ,  0 , dram ,  23.350585937500000000, VMPEAK ,    8292 , time , 2672 
+compiler , espruino , testcase , array-find , package , 123.912368774414062500, core , 93.461059570312500000, gpu ,  0 , dram ,  23.395675659179687500, VMPEAK ,    8292 , time , 2676 
+compiler , espruino , testcase , array-find , package , 123.719955444335937500, core , 93.325683593750000000, gpu ,  0 , dram ,  23.339263916015625000, VMPEAK ,    8292 , time , 2671 
+compiler , espruino , testcase , array-find , package , 124.872619628906250000, core , 93.858535766601562500, gpu ,  0 , dram ,  23.873397827148437500, VMPEAK ,    8292 , time , 2727 
+compiler , espruino , testcase , array-find , package , 124.873931884765625000, core , 93.926727294921875000, gpu ,  0 , dram ,  23.829986572265625000, VMPEAK ,    8292 , time , 2720 
+compiler , espruino , testcase , array-find , package , 123.799530029296875000, core , 93.416793823242187500, gpu ,  0 , dram ,  23.350540161132812500, VMPEAK ,    8292 , time , 2669 
+compiler , espruino , testcase , array-find , package , 123.998062133789062500, core , 93.592254638671875000, gpu ,  0 , dram ,  23.360061645507812500, VMPEAK ,    8292 , time , 2672 

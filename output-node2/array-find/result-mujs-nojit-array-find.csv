@@ -1,11 +1,11 @@
 Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
- compiler , mujs , testcase , array-find , package , 0.083358764648437500, core , 0.025833129882812500, gpu ,  0 , dram ,  0.023239135742187500, VMPEAK ,    8236 , time , 3 
-compiler , mujs , testcase , array-find , package , 0.063385009765625000, core , 0.019744873046875000, gpu ,  0 , dram ,  0.023223876953125000, VMPEAK ,    8236 , time , 3 
-compiler , mujs , testcase , array-find , package , 0.035690307617187500, core , 0.021087646484375000, gpu ,  0 , dram ,  0.005813598632812500, VMPEAK ,    8236 , time , 1 
-compiler , mujs , testcase , array-find , package , 0.077926635742187500, core , 0.049026489257812500, gpu ,  0 , dram ,  0.011627197265625000, VMPEAK ,    8236 , time , 1 
-compiler , mujs , testcase , array-find , package , 0.039047241210937500, core , 0.024566650390625000, gpu ,  0 , dram ,  0.005798339843750000, VMPEAK ,    8236 , time , 1 
-compiler , mujs , testcase , array-find , package , 0.077850341796875000, core , 0.048980712890625000, gpu ,  0 , dram ,  0.011611938476562500, VMPEAK ,    8236 , time , 1 
-compiler , mujs , testcase , array-find , package , 0.039031982421875000, core , 0.024597167968750000, gpu ,  0 , dram ,  0.005798339843750000, VMPEAK ,    8236 , time , 1 
-compiler , mujs , testcase , array-find , package , 0.038787841796875000, core , 0.024475097656250000, gpu ,  0 , dram ,  0.005798339843750000, VMPEAK ,    8236 , time , 1 
-compiler , mujs , testcase , array-find , package , 0.078033447265625000, core , 0.049148559570312500, gpu ,  0 , dram ,  0.011627197265625000, VMPEAK ,    8236 , time , 1 
-compiler , mujs , testcase , array-find , package , 0.039428710937500000, core , 0.024826049804687500, gpu ,  0 , dram ,  0.005798339843750000, VMPEAK ,    8236 , time , 1 
+ compiler , mujs , testcase , array-find , package , 0.067169189453125000, core , 0.033020019531250000, gpu ,  0 , dram ,  0.035385131835937500, VMPEAK ,    8292 , time , 3 
+compiler , mujs , testcase , array-find , package , 0.089340209960937500, core , 0.043853759765625000, gpu ,  0 , dram ,  0.035400390625000000, VMPEAK ,    8292 , time , 3 
+compiler , mujs , testcase , array-find , package , 0.064193725585937500, core , 0.041595458984375000, gpu ,  0 , dram ,  0.017700195312500000, VMPEAK ,    8292 , time , 1 
+compiler , mujs , testcase , array-find , package , 0.046981811523437500, core , 0.035491943359375000, gpu ,  0 , dram ,  0.008850097656250000, VMPEAK ,    8292 , time , 1 
+compiler , mujs , testcase , array-find , package , 0.046066284179687500, core , 0.034820556640625000, gpu ,  0 , dram ,  0.008850097656250000, VMPEAK ,    8292 , time , 1 
+compiler , mujs , testcase , array-find , package , 0.093154907226562500, core , 0.070388793945312500, gpu ,  0 , dram ,  0.017700195312500000, VMPEAK ,    8292 , time , 1 
+compiler , mujs , testcase , array-find , package , 0.047012329101562500, core , 0.035537719726562500, gpu ,  0 , dram ,  0.008850097656250000, VMPEAK ,    8292 , time , 1 
+compiler , mujs , testcase , array-find , package , 0.046279907226562500, core , 0.034973144531250000, gpu ,  0 , dram ,  0.008850097656250000, VMPEAK ,    8292 , time , 1 
+compiler , mujs , testcase , array-find , package , 0.046936035156250000, core , 0.035461425781250000, gpu ,  0 , dram ,  0.017700195312500000, VMPEAK ,    8292 , time , 1 
+compiler , mujs , testcase , array-find , package , 0.046691894531250000, core , 0.035263061523437500, gpu ,  0 , dram ,  0.008850097656250000, VMPEAK ,    8292 , time , 1 

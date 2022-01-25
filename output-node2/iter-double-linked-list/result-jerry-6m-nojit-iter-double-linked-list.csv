@@ -1,11 +1,11 @@
 Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
- compiler , jerry-6m , testcase , iter-double-linked-list , package , 223.124679565429687500, core , 138.187713623046875000, gpu ,  0 , dram ,  30.118301391601562500, VMPEAK ,    8236 , time , 5846 
-compiler , jerry-6m , testcase , iter-double-linked-list , package , 213.444503784179687500, core , 136.092941284179687500, gpu ,  0 , dram ,  27.568832397460937500, VMPEAK ,    8236 , time , 5323 
-compiler , jerry-6m , testcase , iter-double-linked-list , package , 212.971588134765625000, core , 135.780960083007812500, gpu ,  0 , dram ,  27.270004272460937500, VMPEAK ,    8236 , time , 5311 
-compiler , jerry-6m , testcase , iter-double-linked-list , package , 213.048614501953125000, core , 135.813507080078125000, gpu ,  0 , dram ,  27.152526855468750000, VMPEAK ,    8236 , time , 5311 
-compiler , jerry-6m , testcase , iter-double-linked-list , package , 214.111679077148437500, core , 136.563293457031250000, gpu ,  0 , dram ,  27.339996337890625000, VMPEAK ,    8236 , time , 5333 
-compiler , jerry-6m , testcase , iter-double-linked-list , package , 209.988800048828125000, core , 134.070877075195312500, gpu ,  0 , dram ,  26.814010620117187500, VMPEAK ,    8236 , time , 5221 
-compiler , jerry-6m , testcase , iter-double-linked-list , package , 213.818862915039062500, core , 136.428298950195312500, gpu ,  0 , dram ,  27.277801513671875000, VMPEAK ,    8236 , time , 5318 
-compiler , jerry-6m , testcase , iter-double-linked-list , package , 219.767059326171875000, core , 140.237167358398437500, gpu ,  0 , dram ,  27.864288330078125000, VMPEAK ,    8236 , time , 5463 
-compiler , jerry-6m , testcase , iter-double-linked-list , package , 213.983978271484375000, core , 136.641891479492187500, gpu ,  0 , dram ,  27.241592407226562500, VMPEAK ,    8236 , time , 5314 
-compiler , jerry-6m , testcase , iter-double-linked-list , package , 217.089035034179687500, core , 138.618209838867187500, gpu ,  0 , dram ,  27.429046630859375000, VMPEAK ,    8236 , time , 5387 
+ compiler , jerry-6m , testcase , iter-double-linked-list , package , 215.278442382812500000, core , 162.679351806640625000, gpu ,  0 , dram ,  40.419387817382812500, VMPEAK ,    8292 , time , 4629 
+compiler , jerry-6m , testcase , iter-double-linked-list , package , 219.298507690429687500, core , 165.786239624023437500, gpu ,  0 , dram ,  41.251892089843750000, VMPEAK ,    8292 , time , 4707 
+compiler , jerry-6m , testcase , iter-double-linked-list , package , 216.284835815429687500, core , 163.600341796875000000, gpu ,  0 , dram ,  40.518524169921875000, VMPEAK ,    8292 , time , 4632 
+compiler , jerry-6m , testcase , iter-double-linked-list , package , 221.090774536132812500, core , 167.213211059570312500, gpu ,  0 , dram ,  41.402160644531250000, VMPEAK ,    8292 , time , 4735 
+compiler , jerry-6m , testcase , iter-double-linked-list , package , 220.586608886718750000, core , 166.891921997070312500, gpu ,  0 , dram ,  41.305877685546875000, VMPEAK ,    8292 , time , 4722 
+compiler , jerry-6m , testcase , iter-double-linked-list , package , 220.558593750000000000, core , 166.901199340820312500, gpu ,  0 , dram ,  41.252304077148437500, VMPEAK ,    8292 , time , 4718 
+compiler , jerry-6m , testcase , iter-double-linked-list , package , 220.385650634765625000, core , 166.837570190429687500, gpu ,  0 , dram ,  41.127548217773437500, VMPEAK ,    8292 , time , 4707 
+compiler , jerry-6m , testcase , iter-double-linked-list , package , 220.177917480468750000, core , 166.700317382812500000, gpu ,  0 , dram ,  41.093002319335937500, VMPEAK ,    8292 , time , 4700 
+compiler , jerry-6m , testcase , iter-double-linked-list , package , 220.569473266601562500, core , 167.044204711914062500, gpu ,  0 , dram ,  41.021804809570312500, VMPEAK ,    8292 , time , 4704 
+compiler , jerry-6m , testcase , iter-double-linked-list , package , 219.517868041992187500, core , 166.258148193359375000, gpu ,  0 , dram ,  40.977783203125000000, VMPEAK ,    8292 , time , 4677 

@@ -4,7 +4,7 @@ set -m
 set -x
 
 rm -rf ../output-node2
-cp -R ../node1-1804 ../output-node2
+cp -R ../node2-1804 ../output-node2
 rm -rf ../output-node2/linked-list
 
 touch ../output-node2/result-pkg-energy.txt

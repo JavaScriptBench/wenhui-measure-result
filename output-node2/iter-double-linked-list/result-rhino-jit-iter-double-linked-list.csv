@@ -1,11 +1,11 @@
 Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
- compiler , rhino-jit , testcase , iter-double-linked-list , package , 165.064605712890625000, core , 100.933319091796875000, gpu ,  0 , dram ,  30.433105468750000000, VMPEAK ,    8236 , time , 4393 
-compiler , rhino-jit , testcase , iter-double-linked-list , package , 160.959869384765625000, core , 101.805709838867187500, gpu ,  0 , dram ,  28.600708007812500000, VMPEAK ,    8236 , time , 4051 
-compiler , rhino-jit , testcase , iter-double-linked-list , package , 168.571105957031250000, core , 106.757431030273437500, gpu ,  0 , dram ,  29.898910522460937500, VMPEAK ,    8236 , time , 4231 
-compiler , rhino-jit , testcase , iter-double-linked-list , package , 162.114074707031250000, core , 102.819747924804687500, gpu ,  0 , dram ,  28.466629028320312500, VMPEAK ,    8236 , time , 4058 
-compiler , rhino-jit , testcase , iter-double-linked-list , package , 159.036727905273437500, core , 100.722640991210937500, gpu ,  0 , dram ,  27.819259643554687500, VMPEAK ,    8236 , time , 3987 
-compiler , rhino-jit , testcase , iter-double-linked-list , package , 162.642135620117187500, core , 103.034667968750000000, gpu ,  0 , dram ,  28.465148925781250000, VMPEAK ,    8236 , time , 4072 
-compiler , rhino-jit , testcase , iter-double-linked-list , package , 171.527786254882812500, core , 108.861221313476562500, gpu ,  0 , dram ,  30.132522583007812500, VMPEAK ,    8236 , time , 4284 
-compiler , rhino-jit , testcase , iter-double-linked-list , package , 162.484558105468750000, core , 103.056900024414062500, gpu ,  0 , dram ,  28.767166137695312500, VMPEAK ,    8236 , time , 4059 
-compiler , rhino-jit , testcase , iter-double-linked-list , package , 163.215026855468750000, core , 103.652648925781250000, gpu ,  0 , dram ,  28.617492675781250000, VMPEAK ,    8236 , time , 4064 
-compiler , rhino-jit , testcase , iter-double-linked-list , package , 161.431762695312500000, core , 102.497894287109375000, gpu ,  0 , dram ,  27.675796508789062500, VMPEAK ,    8236 , time , 4028 
+ compiler , rhino-jit , testcase , iter-double-linked-list , package , 168.073959350585937500, core , 126.581375122070312500, gpu ,  0 , dram ,  32.962677001953125000, VMPEAK ,    8292 , time , 3592 
+compiler , rhino-jit , testcase , iter-double-linked-list , package , 178.102737426757812500, core , 134.127593994140625000, gpu ,  0 , dram ,  34.869659423828125000, VMPEAK ,    8292 , time , 3810 
+compiler , rhino-jit , testcase , iter-double-linked-list , package , 167.424087524414062500, core , 126.096801757812500000, gpu ,  0 , dram ,  32.788864135742187500, VMPEAK ,    8292 , time , 3578 
+compiler , rhino-jit , testcase , iter-double-linked-list , package , 169.148162841796875000, core , 127.421661376953125000, gpu ,  0 , dram ,  33.178924560546875000, VMPEAK ,    8292 , time , 3612 
+compiler , rhino-jit , testcase , iter-double-linked-list , package , 168.822052001953125000, core , 127.176193237304687500, gpu ,  0 , dram ,  33.236541748046875000, VMPEAK ,    8292 , time , 3605 
+compiler , rhino-jit , testcase , iter-double-linked-list , package , 169.770889282226562500, core , 127.848327636718750000, gpu ,  0 , dram ,  33.047302246093750000, VMPEAK ,    8292 , time , 3629 
+compiler , rhino-jit , testcase , iter-double-linked-list , package , 166.195877075195312500, core , 125.114578247070312500, gpu ,  0 , dram ,  32.494888305664062500, VMPEAK ,    8292 , time , 3554 
+compiler , rhino-jit , testcase , iter-double-linked-list , package , 169.718444824218750000, core , 127.923233032226562500, gpu ,  0 , dram ,  33.095336914062500000, VMPEAK ,    8292 , time , 3618 
+compiler , rhino-jit , testcase , iter-double-linked-list , package , 170.004852294921875000, core , 128.132385253906250000, gpu ,  0 , dram ,  33.314910888671875000, VMPEAK ,    8292 , time , 3623 
+compiler , rhino-jit , testcase , iter-double-linked-list , package , 169.459609985351562500, core , 127.711441040039062500, gpu ,  0 , dram ,  33.116729736328125000, VMPEAK ,    8292 , time , 3611 

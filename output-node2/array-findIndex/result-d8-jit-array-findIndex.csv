@@ -1,11 +1,11 @@
 Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
- compiler , d8 , testcase , array-findIndex , package , 0.546051025390625000, core , 0.271209716796875000, gpu ,  0 , dram ,  0.118804931640625000, VMPEAK ,    8236 , time , 19 
-compiler , d8 , testcase , array-findIndex , package , 0.506286621093750000, core , 0.318466186523437500, gpu ,  0 , dram ,  0.076705932617187500, VMPEAK ,    8236 , time , 13 
-compiler , d8 , testcase , array-findIndex , package , 0.507934570312500000, core , 0.319778442382812500, gpu ,  0 , dram ,  0.075439453125000000, VMPEAK ,    8236 , time , 12 
-compiler , d8 , testcase , array-findIndex , package , 0.508010864257812500, core , 0.319976806640625000, gpu ,  0 , dram ,  0.075393676757812500, VMPEAK ,    8236 , time , 12 
-compiler , d8 , testcase , array-findIndex , package , 0.468963623046875000, core , 0.295318603515625000, gpu ,  0 , dram ,  0.069595336914062500, VMPEAK ,    8236 , time , 12 
-compiler , d8 , testcase , array-findIndex , package , 0.611022949218750000, core , 0.205917358398437500, gpu ,  0 , dram ,  0.161331176757812500, VMPEAK ,    8236 , time , 28 
-compiler , d8 , testcase , array-findIndex , package , 0.611892700195312500, core , 0.163619995117187500, gpu ,  0 , dram ,  0.180130004882812500, VMPEAK ,    8236 , time , 31 
-compiler , d8 , testcase , array-findIndex , package , 0.611923217773437500, core , 0.163650512695312500, gpu ,  0 , dram ,  0.177459716796875000, VMPEAK ,    8236 , time , 30 
-compiler , d8 , testcase , array-findIndex , package , 0.611541748046875000, core , 0.163452148437500000, gpu ,  0 , dram ,  0.179641723632812500, VMPEAK ,    8236 , time , 31 
-compiler , d8 , testcase , array-findIndex , package , 0.612503051757812500, core , 0.164001464843750000, gpu ,  0 , dram ,  0.172576904296875000, VMPEAK ,    8236 , time , 31 
+ compiler , d8 , testcase , array-findIndex , package , 0.597335815429687500, core , 0.391769409179687500, gpu ,  0 , dram ,  0.160308837890625000, VMPEAK ,    8292 , time , 18 
+compiler , d8 , testcase , array-findIndex , package , 0.554962158203125000, core , 0.418182373046875000, gpu ,  0 , dram ,  0.106033325195312500, VMPEAK ,    8292 , time , 11 
+compiler , d8 , testcase , array-findIndex , package , 0.508987426757812500, core , 0.383743286132812500, gpu ,  0 , dram ,  0.097274780273437500, VMPEAK ,    8292 , time , 11 
+compiler , d8 , testcase , array-findIndex , package , 0.555038452148437500, core , 0.418334960937500000, gpu ,  0 , dram ,  0.106079101562500000, VMPEAK ,    8292 , time , 11 
+compiler , d8 , testcase , array-findIndex , package , 0.555725097656250000, core , 0.419052124023437500, gpu ,  0 , dram ,  0.106048583984375000, VMPEAK ,    8292 , time , 11 
+compiler , d8 , testcase , array-findIndex , package , 0.555770874023437500, core , 0.419021606445312500, gpu ,  0 , dram ,  0.106033325195312500, VMPEAK ,    8292 , time , 12 
+compiler , d8 , testcase , array-findIndex , package , 0.556106567382812500, core , 0.419250488281250000, gpu ,  0 , dram ,  0.088363647460937500, VMPEAK ,    8292 , time , 11 
+compiler , d8 , testcase , array-findIndex , package , 0.555297851562500000, core , 0.418640136718750000, gpu ,  0 , dram ,  0.106094360351562500, VMPEAK ,    8292 , time , 12 
+compiler , d8 , testcase , array-findIndex , package , 0.555877685546875000, core , 0.418991088867187500, gpu ,  0 , dram ,  0.106018066406250000, VMPEAK ,    8292 , time , 11 
+compiler , d8 , testcase , array-findIndex , package , 0.554641723632812500, core , 0.418060302734375000, gpu ,  0 , dram ,  0.106048583984375000, VMPEAK ,    8292 , time , 12 

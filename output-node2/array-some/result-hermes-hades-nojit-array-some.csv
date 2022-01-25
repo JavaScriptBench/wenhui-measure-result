@@ -1,11 +1,11 @@
 Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
- compiler , hermes-hades , testcase , array-some , package , 123.647644042968750000, core , 78.539749145507812500, gpu ,  0 , dram ,  16.282089233398437500, VMPEAK ,    8236 , time , 3124 
-compiler , hermes-hades , testcase , array-some , package , 124.560760498046875000, core , 79.231384277343750000, gpu ,  0 , dram ,  16.303710937500000000, VMPEAK ,    8236 , time , 3137 
-compiler , hermes-hades , testcase , array-some , package , 124.377410888671875000, core , 79.141113281250000000, gpu ,  0 , dram ,  16.105911254882812500, VMPEAK ,    8236 , time , 3129 
-compiler , hermes-hades , testcase , array-some , package , 124.936279296875000000, core , 79.556900024414062500, gpu ,  0 , dram ,  16.172393798828125000, VMPEAK ,    8236 , time , 3137 
-compiler , hermes-hades , testcase , array-some , package , 124.722259521484375000, core , 79.409790039062500000, gpu ,  0 , dram ,  16.150146484375000000, VMPEAK ,    8236 , time , 3131 
-compiler , hermes-hades , testcase , array-some , package , 124.549591064453125000, core , 79.319458007812500000, gpu ,  0 , dram ,  16.100158691406250000, VMPEAK ,    8236 , time , 3125 
-compiler , hermes-hades , testcase , array-some , package , 125.427383422851562500, core , 79.911849975585937500, gpu ,  0 , dram ,  16.335845947265625000, VMPEAK ,    8236 , time , 3143 
-compiler , hermes-hades , testcase , array-some , package , 125.049148559570312500, core , 79.690368652343750000, gpu ,  0 , dram ,  16.276733398437500000, VMPEAK ,    8236 , time , 3131 
-compiler , hermes-hades , testcase , array-some , package , 124.788513183593750000, core , 79.571243286132812500, gpu ,  0 , dram ,  16.135055541992187500, VMPEAK ,    8236 , time , 3122 
-compiler , hermes-hades , testcase , array-some , package , 125.437377929687500000, core , 79.998703002929687500, gpu ,  0 , dram ,  16.239166259765625000, VMPEAK ,    8236 , time , 3135 
+ compiler , hermes-hades , testcase , array-some , package , 130.958007812500000000, core , 99.214416503906250000, gpu ,  0 , dram ,  24.452880859375000000, VMPEAK ,    8292 , time , 2795 
+compiler , hermes-hades , testcase , array-some , package , 130.227645874023437500, core , 98.638595581054687500, gpu ,  0 , dram ,  24.333587646484375000, VMPEAK ,    8292 , time , 2779 
+compiler , hermes-hades , testcase , array-some , package , 130.705108642578125000, core , 99.014389038085937500, gpu ,  0 , dram ,  24.415573120117187500, VMPEAK ,    8292 , time , 2787 
+compiler , hermes-hades , testcase , array-some , package , 131.067871093750000000, core , 99.286956787109375000, gpu ,  0 , dram ,  24.476104736328125000, VMPEAK ,    8292 , time , 2795 
+compiler , hermes-hades , testcase , array-some , package , 130.821792602539062500, core , 99.113189697265625000, gpu ,  0 , dram ,  24.378021240234375000, VMPEAK ,    8292 , time , 2787 
+compiler , hermes-hades , testcase , array-some , package , 131.569839477539062500, core , 99.700286865234375000, gpu ,  0 , dram ,  24.495422363281250000, VMPEAK ,    8292 , time , 2802 
+compiler , hermes-hades , testcase , array-some , package , 131.086791992187500000, core , 99.335861206054687500, gpu ,  0 , dram ,  24.403778076171875000, VMPEAK ,    8292 , time , 2791 
+compiler , hermes-hades , testcase , array-some , package , 130.936737060546875000, core , 99.220245361328125000, gpu ,  0 , dram ,  24.389526367187500000, VMPEAK ,    8292 , time , 2787 
+compiler , hermes-hades , testcase , array-some , package , 131.184738159179687500, core , 99.470611572265625000, gpu ,  0 , dram ,  24.317962646484375000, VMPEAK ,    8292 , time , 2789 
+compiler , hermes-hades , testcase , array-some , package , 131.603912353515625000, core , 99.798645019531250000, gpu ,  0 , dram ,  24.437820434570312500, VMPEAK ,    8292 , time , 2796 

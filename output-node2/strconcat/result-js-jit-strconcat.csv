@@ -1,11 +1,11 @@
 Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
- compiler , js , testcase , strconcat , package , 62.279525756835937500, core , 39.726318359375000000, gpu ,  0 , dram ,  11.766296386718750000, VMPEAK ,    8236 , time , 1527 
-compiler , js , testcase , strconcat , package , 61.943710327148437500, core , 39.649673461914062500, gpu ,  0 , dram ,  11.665740966796875000, VMPEAK ,    8236 , time , 1505 
-compiler , js , testcase , strconcat , package , 61.003921508789062500, core , 39.071075439453125000, gpu ,  0 , dram ,  11.532333374023437500, VMPEAK ,    8236 , time , 1482 
-compiler , js , testcase , strconcat , package , 62.456542968750000000, core , 39.981582641601562500, gpu ,  0 , dram ,  11.802856445312500000, VMPEAK ,    8236 , time , 1518 
-compiler , js , testcase , strconcat , package , 61.871109008789062500, core , 39.495834350585937500, gpu ,  0 , dram ,  11.686843872070312500, VMPEAK ,    8236 , time , 1511 
-compiler , js , testcase , strconcat , package , 61.623260498046875000, core , 39.375900268554687500, gpu ,  0 , dram ,  11.510498046875000000, VMPEAK ,    8236 , time , 1502 
-compiler , js , testcase , strconcat , package , 62.394409179687500000, core , 39.966278076171875000, gpu ,  0 , dram ,  11.475784301757812500, VMPEAK ,    8236 , time , 1514 
-compiler , js , testcase , strconcat , package , 61.429306030273437500, core , 39.347747802734375000, gpu ,  0 , dram ,  11.514968872070312500, VMPEAK ,    8236 , time , 1490 
-compiler , js , testcase , strconcat , package , 60.986923217773437500, core , 39.068801879882812500, gpu ,  0 , dram ,  11.580062866210937500, VMPEAK ,    8236 , time , 1480 
-compiler , js , testcase , strconcat , package , 61.140045166015625000, core , 39.169021606445312500, gpu ,  0 , dram ,  11.553909301757812500, VMPEAK ,    8236 , time , 1483 
+ compiler , js , testcase , strconcat , package , 72.548568725585937500, core , 54.117294311523437500, gpu ,  0 , dram ,  15.134216308593750000, VMPEAK ,    8292 , time , 1576 
+compiler , js , testcase , strconcat , package , 72.197052001953125000, core , 53.928604125976562500, gpu ,  0 , dram ,  14.945205688476562500, VMPEAK ,    8292 , time , 1561 
+compiler , js , testcase , strconcat , package , 72.398605346679687500, core , 54.084289550781250000, gpu ,  0 , dram ,  15.001464843750000000, VMPEAK ,    8292 , time , 1563 
+compiler , js , testcase , strconcat , package , 72.948669433593750000, core , 54.492752075195312500, gpu ,  0 , dram ,  15.096252441406250000, VMPEAK ,    8292 , time , 1575 
+compiler , js , testcase , strconcat , package , 72.868850708007812500, core , 54.432662963867187500, gpu ,  0 , dram ,  15.036987304687500000, VMPEAK ,    8292 , time , 1573 
+compiler , js , testcase , strconcat , package , 73.512008666992187500, core , 54.911483764648437500, gpu ,  0 , dram ,  15.246643066406250000, VMPEAK ,    8292 , time , 1588 
+compiler , js , testcase , strconcat , package , 72.872436523437500000, core , 54.437362670898437500, gpu ,  0 , dram ,  15.047286987304687500, VMPEAK ,    8292 , time , 1574 
+compiler , js , testcase , strconcat , package , 72.548782348632812500, core , 54.198867797851562500, gpu ,  0 , dram ,  15.051544189453125000, VMPEAK ,    8292 , time , 1565 
+compiler , js , testcase , strconcat , package , 72.390380859375000000, core , 54.097915649414062500, gpu ,  0 , dram ,  14.940216064453125000, VMPEAK ,    8292 , time , 1561 
+compiler , js , testcase , strconcat , package , 72.245727539062500000, core , 53.995910644531250000, gpu ,  0 , dram ,  14.953247070312500000, VMPEAK ,    8292 , time , 1556 

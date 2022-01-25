@@ -1,11 +1,11 @@
 Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
- compiler , hermes-hades , testcase , mandelbrot , package , 5886.421936035156250000, core , 3762.455413818359375000, gpu ,  0 , dram ,  758.333389282226562500, VMPEAK ,    8236 , time , 146667 
-compiler , hermes-hades , testcase , mandelbrot , package , 6008.893615722656250000, core , 3878.615921020507812500, gpu ,  0 , dram ,  762.818313598632812500, VMPEAK ,    8236 , time , 146383 
-compiler , hermes-hades , testcase , mandelbrot , package , 6106.414825439453125000, core , -61584.250015258789062500, gpu ,  0 , dram ,  775.552185058593750000, VMPEAK ,    8236 , time , 147472 
-compiler , hermes-hades , testcase , mandelbrot , package , 6076.748840332031250000, core , 3930.757003784179687500, gpu ,  0 , dram ,  776.960128784179687500, VMPEAK ,    8236 , time , 146479 
-compiler , hermes-hades , testcase , mandelbrot , package , 6094.666870117187500000, core , 3946.083877563476562500, gpu ,  0 , dram ,  778.995498657226562500, VMPEAK ,    8236 , time , 146442 
-compiler , hermes-hades , testcase , mandelbrot , package , 6100.004760742187500000, core , 3951.127105712890625000, gpu ,  0 , dram ,  778.322845458984375000, VMPEAK ,    8236 , time , 146420 
-compiler , hermes-hades , testcase , mandelbrot , package , 6150.169006347656250000, core , 3981.588073730468750000, gpu ,  0 , dram ,  778.948196411132812500, VMPEAK ,    8236 , time , 147725 
-compiler , hermes-hades , testcase , mandelbrot , package , -59423.433868408203125000, core , 3958.687637329101562500, gpu ,  0 , dram ,  778.307144165039062500, VMPEAK ,    8236 , time , 146683 
-compiler , hermes-hades , testcase , mandelbrot , package , 6112.682357788085937500, core , 3958.112197875976562500, gpu ,  0 , dram ,  781.939285278320312500, VMPEAK ,    8236 , time , 146756 
-compiler , hermes-hades , testcase , mandelbrot , package , 6152.482757568359375000, core , 3984.888946533203125000, gpu ,  0 , dram ,  786.877685546875000000, VMPEAK ,    8236 , time , 147705 
+ compiler , hermes-hades , testcase , mandelbrot , package , 5962.802001953125000000, core , 4533.141647338867187500, gpu ,  0 , dram ,  1096.216751098632812500, VMPEAK ,    8292 , time , 125290 
+compiler , hermes-hades , testcase , mandelbrot , package , 6005.393814086914062500, core , 4568.245635986328125000, gpu ,  0 , dram ,  1097.264480590820312500, VMPEAK ,    8292 , time , 125511 
+compiler , hermes-hades , testcase , mandelbrot , package , -59550.659790039062500000, core , 4550.915496826171875000, gpu ,  0 , dram ,  1095.125366210937500000, VMPEAK ,    8292 , time , 125291 
+compiler , hermes-hades , testcase , mandelbrot , package , 5980.583084106445312500, core , 4547.292098999023437500, gpu ,  0 , dram ,  1093.592681884765625000, VMPEAK ,    8292 , time , 125093 
+compiler , hermes-hades , testcase , mandelbrot , package , 5996.727722167968750000, core , 4561.016021728515625000, gpu ,  0 , dram ,  1095.490753173828125000, VMPEAK ,    8292 , time , 125269 
+compiler , hermes-hades , testcase , mandelbrot , package , 6003.704925537109375000, core , 4563.332214355468750000, gpu ,  0 , dram ,  1098.592864990234375000, VMPEAK ,    8292 , time , 125681 
+compiler , hermes-hades , testcase , mandelbrot , package , 5998.109832763671875000, core , 4559.619171142578125000, gpu ,  0 , dram ,  1096.264907836914062500, VMPEAK ,    8292 , time , 125546 
+compiler , hermes-hades , testcase , mandelbrot , package , 5988.971282958984375000, core , 4553.397293090820312500, gpu ,  0 , dram ,  1094.698837280273437500, VMPEAK ,    8292 , time , 125263 
+compiler , hermes-hades , testcase , mandelbrot , package , 6013.602828979492187500, core , 4566.709167480468750000, gpu ,  0 , dram ,  1104.040588378906250000, VMPEAK ,    8292 , time , 126221 
+compiler , hermes-hades , testcase , mandelbrot , package , 6031.130828857421875000, core , -60952.195831298828125000, gpu ,  0 , dram ,  1103.809677124023437500, VMPEAK ,    8292 , time , 126299 
