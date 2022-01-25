@@ -1,6 +1,7 @@
 import sys
 import getopt
 import csv
+import os
 import numpy as np
 import scipy
 from scipy import stats
@@ -113,51 +114,51 @@ arr = delete_outliner_other(vmpeak)
 
 
 bench = bench.strip()
-if infile.strip().startswith('result-ch-jit'):
+if os.path.basename(infile).startswith('result-ch-jit'):
     compiler = 'ch-jit'
-if infile.strip().startswith('result-ch-nojit'):
+if os.path.basename(infile).startswith('result-ch-nojit'):
     compiler = 'ch-nojit'
-if infile.strip().startswith('result-d8-jit'):
+if os.path.basename(infile).startswith('result-d8-jit'):
     compiler = 'd8-jit'
-if infile.strip().startswith('result-d8-nojit'):
+if os.path.basename(infile).startswith('result-d8-nojit'):
     compiler = 'd8-nojit'
-if infile.strip().startswith('result-duk-nojit'):
+if os.path.basename(infile).startswith('result-duk-nojit'):
     compiler = 'duk'
-if infile.strip().startswith('result-espruino-nojit'):
+if os.path.basename(infile).startswith('result-espruino-nojit'):
     compiler = 'espruino'
-if infile.strip().startswith('result-hermes-gengc-nojit'):
+if os.path.basename(infile).startswith('result-hermes-gengc-nojit'):
     compiler = 'hermes-gengc'
-if infile.strip().startswith('result-hermes-hades-nojit'):
+if os.path.basename(infile).startswith('result-hermes-hades-nojit'):
     compiler = 'hermes-hades'
-if infile.strip().startswith('result-hermes-malloc-nojit'):
+if os.path.basename(infile).startswith('result-hermes-malloc-nojit'):
     compiler = 'hermes-malloc'
-if infile.strip().startswith('result-jerry-6m-nojit'):
+if os.path.basename(infile).startswith('result-jerry-6m-nojit'):
     compiler = 'jerry-6m'
-if infile.strip().startswith('result-jerry-512k-nojit'):
+if os.path.basename(infile).startswith('result-jerry-512k-nojit'):
     compiler = 'jerry-512k'
-if infile.strip().startswith('result-js-24-jit'):
+if os.path.basename(infile).startswith('result-js-24-jit'):
     compiler = 'js-24-jit'
-if infile.strip().startswith('result-js-24-nojit'):
+if os.path.basename(infile).startswith('result-js-24-nojit'):
     compiler = 'js-24-nojit'
-if infile.strip().startswith('result-js-52-jit'):
+if os.path.basename(infile).startswith('result-js-52-jit'):
     compiler = 'js-52-jit'
-if infile.strip().startswith('result-js-52-nojit'):
+if os.path.basename(infile).startswith('result-js-52-nojit'):
     compiler = 'js-52-nojit'
-if infile.strip().startswith('result-jsc-jit'):
+if os.path.basename(infile).startswith('result-jsc-jit'):
     compiler = 'jsc-jit'
-if infile.strip().startswith('result-jsc-nojit'):
+if os.path.basename(infile).startswith('result-jsc-nojit'):
     compiler = 'jsc-nojit'
-if infile.strip().startswith('result-mujs-nojit'):
+if os.path.basename(infile).startswith('result-mujs-nojit'):
     compiler = 'mujs'
-if infile.strip().startswith('result-node-jit'):
+if os.path.basename(infile).startswith('result-node-jit'):
     compiler = 'node-jit'
-if infile.strip().startswith('result-node-nojit'):
+if os.path.basename(infile).startswith('result-node-nojit'):
     compiler = 'node-nojit'
-if infile.strip().startswith('result-qjs-nojit'):
+if os.path.basename(infile).startswith('result-qjs-nojit'):
     compiler = 'qjs'
-if infile.strip().startswith('result-rhino-jit'):
+if os.path.basename(infile).startswith('result-rhino-jit'):
     compiler = 'rhino-jit'
-if infile.strip().startswith('result-rhino-nojit'):
+if os.path.basename(infile).startswith('result-rhino-nojit'):
     compiler = 'rhino-nojit'
 
 print(compiler, bench, sum(arr)/len(arr), min(arr), max(arr), np.var(arr), np.std(arr))
