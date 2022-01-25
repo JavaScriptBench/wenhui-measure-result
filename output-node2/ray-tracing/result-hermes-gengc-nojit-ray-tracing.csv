@@ -1,11 +1,11 @@
 Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
- compiler , hermes-gengc , testcase , ray-tracing , package , 5279.921752929687500000, core , 4002.513702392578125000, gpu ,  0 , dram ,  980.026428222656250000, VMPEAK ,    8292 , time , 112023 
-compiler , hermes-gengc , testcase , ray-tracing , package , 5290.970001220703125000, core , 4013.047332763671875000, gpu ,  0 , dram ,  979.395416259765625000, VMPEAK ,    8292 , time , 111908 
-compiler , hermes-gengc , testcase , ray-tracing , package , 5295.910369873046875000, core , -61517.050079345703125000, gpu ,  0 , dram ,  978.051544189453125000, VMPEAK ,    8292 , time , 111776 
-compiler , hermes-gengc , testcase , ray-tracing , package , 5296.219665527343750000, core , 4018.650253295898437500, gpu ,  0 , dram ,  978.014190673828125000, VMPEAK ,    8292 , time , 111792 
-compiler , hermes-gengc , testcase , ray-tracing , package , 5302.173553466796875000, core , 4024.719573974609375000, gpu ,  0 , dram ,  978.471237182617187500, VMPEAK ,    8292 , time , 111809 
-compiler , hermes-gengc , testcase , ray-tracing , package , 5301.359725952148437500, core , 4023.346023559570312500, gpu ,  0 , dram ,  978.717468261718750000, VMPEAK ,    8292 , time , 111850 
-compiler , hermes-gengc , testcase , ray-tracing , package , -60233.657135009765625000, core , 4024.517684936523437500, gpu ,  0 , dram ,  977.977783203125000000, VMPEAK ,    8292 , time , 111802 
-compiler , hermes-gengc , testcase , ray-tracing , package , 5306.087387084960937500, core , 4025.095092773437500000, gpu ,  0 , dram ,  980.109924316406250000, VMPEAK ,    8292 , time , 112027 
-compiler , hermes-gengc , testcase , ray-tracing , package , 5297.774230957031250000, core , 4019.552230834960937500, gpu ,  0 , dram ,  977.436218261718750000, VMPEAK ,    8292 , time , 111771 
-compiler , hermes-gengc , testcase , ray-tracing , package , 5303.136199951171875000, core , 4024.435028076171875000, gpu ,  0 , dram ,  978.147201538085937500, VMPEAK ,    8292 , time , 111837 
+ compiler , hermes-gengc , testcase , ray-tracing , package , 5254.826110839843750000, core , 3374.231643676757812500, gpu ,  0 , dram ,  669.422348022460937500, VMPEAK ,    8236 , time , 129287 
+compiler , hermes-gengc , testcase , ray-tracing , package , 5320.079589843750000000, core , 3433.941268920898437500, gpu ,  0 , dram ,  677.069946289062500000, VMPEAK ,    8236 , time , 129085 
+compiler , hermes-gengc , testcase , ray-tracing , package , 5329.052856445312500000, core , 3438.852493286132812500, gpu ,  0 , dram ,  -64858.500900268554687500, VMPEAK ,    8236 , time , 129052 
+compiler , hermes-gengc , testcase , ray-tracing , package , 5331.815322875976562500, core , 3439.416809082031250000, gpu ,  0 , dram ,  676.678344726562500000, VMPEAK ,    8236 , time , 129071 
+compiler , hermes-gengc , testcase , ray-tracing , package , -60195.078094482421875000, core , 3447.958801269531250000, gpu ,  0 , dram ,  677.614425659179687500, VMPEAK ,    8236 , time , 129063 
+compiler , hermes-gengc , testcase , ray-tracing , package , 5339.782043457031250000, core , 3448.128814697265625000, gpu ,  0 , dram ,  668.743560791015625000, VMPEAK ,    8236 , time , 128937 
+compiler , hermes-gengc , testcase , ray-tracing , package , 5347.684707641601562500, core , 3454.450408935546875000, gpu ,  0 , dram ,  669.708145141601562500, VMPEAK ,    8236 , time , 129066 
+compiler , hermes-gengc , testcase , ray-tracing , package , 5340.324661254882812500, core , -62086.266647338867187500, gpu ,  0 , dram ,  672.299163818359375000, VMPEAK ,    8236 , time , 128928 
+compiler , hermes-gengc , testcase , ray-tracing , package , 5344.979019165039062500, core , 3452.807968139648437500, gpu ,  0 , dram ,  670.988037109375000000, VMPEAK ,    8236 , time , 129003 
+compiler , hermes-gengc , testcase , ray-tracing , package , 5354.478164672851562500, core , 3456.816970825195312500, gpu ,  0 , dram ,  675.862762451171875000, VMPEAK ,    8236 , time , 129288 

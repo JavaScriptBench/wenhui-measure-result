@@ -1,11 +1,11 @@
 Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
- compiler , hermes-hades , testcase , spectral-norm , package , 7606.366149902343750000, core , 5775.977203369140625000, gpu ,  0 , dram ,  1403.249374389648437500, VMPEAK ,    8292 , time , 160435 
-compiler , hermes-hades , testcase , spectral-norm , package , 7653.388702392578125000, core , 5819.951232910156250000, gpu ,  0 , dram ,  -64133.178131103515625000, VMPEAK ,    8292 , time , 160352 
-compiler , hermes-hades , testcase , spectral-norm , package , -57869.330123901367187500, core , 5828.356658935546875000, gpu ,  0 , dram ,  1402.230239868164062500, VMPEAK ,    8292 , time , 160650 
-compiler , hermes-hades , testcase , spectral-norm , package , 7670.500076293945312500, core , 5830.746734619140625000, gpu ,  0 , dram ,  1403.445571899414062500, VMPEAK ,    8292 , time , 160572 
-compiler , hermes-hades , testcase , spectral-norm , package , 7654.832427978515625000, core , 5819.766693115234375000, gpu ,  0 , dram ,  1398.666381835937500000, VMPEAK ,    8292 , time , 160269 
-compiler , hermes-hades , testcase , spectral-norm , package , 7712.834716796875000000, core , -59671.967941284179687500, gpu ,  0 , dram ,  1412.585006713867187500, VMPEAK ,    8292 , time , 161535 
-compiler , hermes-hades , testcase , spectral-norm , package , 7643.919113159179687500, core , 5810.376144409179687500, gpu ,  0 , dram ,  1400.182678222656250000, VMPEAK ,    8292 , time , 160184 
-compiler , hermes-hades , testcase , spectral-norm , package , 7683.367767333984375000, core , 5840.623123168945312500, gpu ,  0 , dram ,  1404.121582031250000000, VMPEAK ,    8292 , time , 160873 
-compiler , hermes-hades , testcase , spectral-norm , package , 7654.543395996093750000, core , 5818.558792114257812500, gpu ,  0 , dram ,  1401.902481079101562500, VMPEAK ,    8292 , time , 160354 
-compiler , hermes-hades , testcase , spectral-norm , package , 7667.070571899414062500, core , 5828.355743408203125000, gpu ,  0 , dram ,  1397.763137817382812500, VMPEAK ,    8292 , time , 160656 
+ compiler , hermes-hades , testcase , spectral-norm , package , 7691.346145629882812500, core , 4914.895324707031250000, gpu ,  0 , dram ,  993.478317260742187500, VMPEAK ,    8236 , time , 191584 
+compiler , hermes-hades , testcase , spectral-norm , package , 7886.933517456054687500, core , 5091.027008056640625000, gpu ,  0 , dram ,  1002.764938354492187500, VMPEAK ,    8236 , time , 191901 
+compiler , hermes-hades , testcase , spectral-norm , package , -57584.339843750000000000, core , 5146.062423706054687500, gpu ,  0 , dram ,  1002.350738525390625000, VMPEAK ,    8236 , time , 191861 
+compiler , hermes-hades , testcase , spectral-norm , package , 7940.078125000000000000, core , 5133.744796752929687500, gpu ,  0 , dram ,  1008.961441040039062500, VMPEAK ,    8236 , time , 191386 
+compiler , hermes-hades , testcase , spectral-norm , package , 7958.244491577148437500, core , 5150.399169921875000000, gpu ,  0 , dram ,  1014.926345825195312500, VMPEAK ,    8236 , time , 191586 
+compiler , hermes-hades , testcase , spectral-norm , package , 7977.528137207031250000, core , -60371.835189819335937500, gpu ,  0 , dram ,  1018.657653808593750000, VMPEAK ,    8236 , time , 191811 
+compiler , hermes-hades , testcase , spectral-norm , package , 7982.316696166992187500, core , 5165.612823486328125000, gpu ,  0 , dram ,  1017.891647338867187500, VMPEAK ,    8236 , time , 192059 
+compiler , hermes-hades , testcase , spectral-norm , package , 7967.748474121093750000, core , 5157.518066406250000000, gpu ,  0 , dram ,  1003.078002929687500000, VMPEAK ,    8236 , time , 191601 
+compiler , hermes-hades , testcase , spectral-norm , package , 7950.146408081054687500, core , 5147.818298339843750000, gpu ,  0 , dram ,  991.058792114257812500, VMPEAK ,    8236 , time , 191205 
+compiler , hermes-hades , testcase , spectral-norm , package , 7952.817367553710937500, core , 5148.075988769531250000, gpu ,  0 , dram ,  1003.335800170898437500, VMPEAK ,    8236 , time , 191338 

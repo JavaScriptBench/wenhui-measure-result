@@ -1,11 +1,11 @@
 Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
- compiler , rhino-nojit , testcase , array-every , package , 289.536804199218750000, core , 218.991317749023437500, gpu ,  0 , dram ,  54.172760009765625000, VMPEAK ,    8292 , time , 6203 
-compiler , rhino-nojit , testcase , array-every , package , 287.666458129882812500, core , 217.439239501953125000, gpu ,  0 , dram ,  53.981353759765625000, VMPEAK ,    8292 , time , 6171 
-compiler , rhino-nojit , testcase , array-every , package , 292.910278320312500000, core , 221.479904174804687500, gpu ,  0 , dram ,  54.919723510742187500, VMPEAK ,    8292 , time , 6278 
-compiler , rhino-nojit , testcase , array-every , package , 288.318252563476562500, core , 218.118087768554687500, gpu ,  0 , dram ,  54.016372680664062500, VMPEAK ,    8292 , time , 6170 
-compiler , rhino-nojit , testcase , array-every , package , 291.887817382812500000, core , 220.878448486328125000, gpu ,  0 , dram ,  54.521484375000000000, VMPEAK ,    8292 , time , 6240 
-compiler , rhino-nojit , testcase , array-every , package , 291.208480834960937500, core , 220.346633911132812500, gpu ,  0 , dram ,  54.406311035156250000, VMPEAK ,    8292 , time , 6225 
-compiler , rhino-nojit , testcase , array-every , package , 291.644866943359375000, core , 220.783020019531250000, gpu ,  0 , dram ,  54.467193603515625000, VMPEAK ,    8292 , time , 6227 
-compiler , rhino-nojit , testcase , array-every , package , 288.734664916992187500, core , 218.482162475585937500, gpu ,  0 , dram ,  53.936157226562500000, VMPEAK ,    8292 , time , 6170 
-compiler , rhino-nojit , testcase , array-every , package , 290.159240722656250000, core , 219.577636718750000000, gpu ,  0 , dram ,  54.200805664062500000, VMPEAK ,    8292 , time , 6198 
-compiler , rhino-nojit , testcase , array-every , package , 287.976669311523437500, core , 217.927230834960937500, gpu ,  0 , dram ,  53.751510620117187500, VMPEAK ,    8292 , time , 6143 
+ compiler , rhino-nojit , testcase , array-every , package , 264.664062500000000000, core , 167.674957275390625000, gpu ,  0 , dram ,  38.796798706054687500, VMPEAK ,    8236 , time , 6693 
+compiler , rhino-nojit , testcase , array-every , package , 264.405929565429687500, core , 167.453338623046875000, gpu ,  0 , dram ,  38.712493896484375000, VMPEAK ,    8236 , time , 6687 
+compiler , rhino-nojit , testcase , array-every , package , 265.245101928710937500, core , 168.159561157226562500, gpu ,  0 , dram ,  38.813766479492187500, VMPEAK ,    8236 , time , 6696 
+compiler , rhino-nojit , testcase , array-every , package , 266.053344726562500000, core , 168.783920288085937500, gpu ,  0 , dram ,  38.867111206054687500, VMPEAK ,    8236 , time , 6701 
+compiler , rhino-nojit , testcase , array-every , package , 265.272186279296875000, core , 168.475448608398437500, gpu ,  0 , dram ,  38.704696655273437500, VMPEAK ,    8236 , time , 6668 
+compiler , rhino-nojit , testcase , array-every , package , 265.962142944335937500, core , 168.950820922851562500, gpu ,  0 , dram ,  38.669250488281250000, VMPEAK ,    8236 , time , 6679 
+compiler , rhino-nojit , testcase , array-every , package , 265.712127685546875000, core , 168.735610961914062500, gpu ,  0 , dram ,  38.702133178710937500, VMPEAK ,    8236 , time , 6671 
+compiler , rhino-nojit , testcase , array-every , package , 268.944427490234375000, core , 170.946868896484375000, gpu ,  0 , dram ,  39.079330444335937500, VMPEAK ,    8236 , time , 6741 
+compiler , rhino-nojit , testcase , array-every , package , 268.997360229492187500, core , 171.053634643554687500, gpu ,  0 , dram ,  38.972869873046875000, VMPEAK ,    8236 , time , 6737 
+compiler , rhino-nojit , testcase , array-every , package , 269.524230957031250000, core , 171.643447875976562500, gpu ,  0 , dram ,  39.027893066406250000, VMPEAK ,    8236 , time , 6737 

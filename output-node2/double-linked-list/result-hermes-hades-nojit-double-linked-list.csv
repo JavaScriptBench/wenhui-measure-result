@@ -1,11 +1,11 @@
 Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
- compiler , hermes-hades , testcase , double-linked-list , package , 16734.992523193359375000, core , 12706.432159423828125000, gpu ,  0 , dram ,  3091.130859375000000000, VMPEAK ,    8292 , time , 353311 
-compiler , hermes-hades , testcase , double-linked-list , package , -48814.559097290039062500, core , -52831.536560058593750000, gpu ,  0 , dram ,  3078.016494750976562500, VMPEAK ,    8292 , time , 351757 
-compiler , hermes-hades , testcase , double-linked-list , package , 16789.594100952148437500, core , 12756.791275024414062500, gpu ,  0 , dram ,  -62446.016250610351562500, VMPEAK ,    8292 , time , 353141 
-compiler , hermes-hades , testcase , double-linked-list , package , 16734.746353149414062500, core , 12715.272949218750000000, gpu ,  0 , dram ,  3078.949508666992187500, VMPEAK ,    8292 , time , 351831 
-compiler , hermes-hades , testcase , double-linked-list , package , 16781.961898803710937500, core , 12749.680908203125000000, gpu ,  0 , dram ,  3087.798217773437500000, VMPEAK ,    8292 , time , 353030 
-compiler , hermes-hades , testcase , double-linked-list , package , -48753.804916381835937500, core , 12749.218917846679687500, gpu ,  0 , dram ,  3083.651901245117187500, VMPEAK ,    8292 , time , 353067 
-compiler , hermes-hades , testcase , double-linked-list , package , 16740.928207397460937500, core , -52818.880203247070312500, gpu ,  0 , dram ,  3080.546585083007812500, VMPEAK ,    8292 , time , 352225 
-compiler , hermes-hades , testcase , double-linked-list , package , 16818.604278564453125000, core , 12779.802963256835937500, gpu ,  0 , dram ,  3093.422637939453125000, VMPEAK ,    8292 , time , 353570 
-compiler , hermes-hades , testcase , double-linked-list , package , 16737.302307128906250000, core , 12716.306228637695312500, gpu ,  0 , dram ,  3080.052490234375000000, VMPEAK ,    8292 , time , 352142 
-compiler , hermes-hades , testcase , double-linked-list , package , -48820.815567016601562500, core , 12698.402709960937500000, gpu ,  0 , dram ,  3077.672027587890625000, VMPEAK ,    8292 , time , 351797 
+ compiler , hermes-hades , testcase , double-linked-list , package , 16728.987838745117187500, core , 10792.019958496093750000, gpu ,  0 , dram ,  2111.497360229492187500, VMPEAK ,    8236 , time , 405880 
+compiler , hermes-hades , testcase , double-linked-list , package , 16749.618072509765625000, core , 10829.770233154296875000, gpu ,  0 , dram ,  2085.024810791015625000, VMPEAK ,    8236 , time , 403385 
+compiler , hermes-hades , testcase , double-linked-list , package , -48757.799682617187500000, core , 10848.040451049804687500, gpu ,  0 , dram ,  2099.061645507812500000, VMPEAK ,    8236 , time , 404031 
+compiler , hermes-hades , testcase , double-linked-list , package , 16771.019088745117187500, core , -54686.539657592773437500, gpu ,  0 , dram ,  2123.295867919921875000, VMPEAK ,    8236 , time , 403777 
+compiler , hermes-hades , testcase , double-linked-list , package , 16774.163726806640625000, core , 10847.598907470703125000, gpu ,  0 , dram ,  2154.672958374023437500, VMPEAK ,    8236 , time , 404258 
+compiler , hermes-hades , testcase , double-linked-list , package , 16782.567245483398437500, core , 10849.472732543945312500, gpu ,  0 , dram ,  2157.726074218750000000, VMPEAK ,    8236 , time , 404344 
+compiler , hermes-hades , testcase , double-linked-list , package , -48767.543151855468750000, core , 10845.415252685546875000, gpu ,  0 , dram ,  2153.000976562500000000, VMPEAK ,    8236 , time , 403692 
+compiler , hermes-hades , testcase , double-linked-list , package , 16760.215286254882812500, core , 10836.405227661132812500, gpu ,  0 , dram ,  2154.631042480468750000, VMPEAK ,    8236 , time , 403961 
+compiler , hermes-hades , testcase , double-linked-list , package , 16692.421966552734375000, core , 10792.940078735351562500, gpu ,  0 , dram ,  2138.753845214843750000, VMPEAK ,    8236 , time , 402416 
+compiler , hermes-hades , testcase , double-linked-list , package , 16771.856887817382812500, core , 10839.197692871093750000, gpu ,  0 , dram ,  2133.726348876953125000, VMPEAK ,    8236 , time , 404644 

@@ -1,11 +1,11 @@
 Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
- compiler , hermes-malloc , testcase , array-findIndex , package , 127.057220458984375000, core , 96.246612548828125000, gpu ,  0 , dram ,  23.814483642578125000, VMPEAK ,    8292 , time , 2713 
-compiler , hermes-malloc , testcase , array-findIndex , package , 127.120986938476562500, core , 96.341033935546875000, gpu ,  0 , dram ,  23.698364257812500000, VMPEAK ,    8292 , time , 2708 
-compiler , hermes-malloc , testcase , array-findIndex , package , 127.219665527343750000, core , 96.460525512695312500, gpu ,  0 , dram ,  23.618377685546875000, VMPEAK ,    8292 , time , 2705 
-compiler , hermes-malloc , testcase , array-findIndex , package , 127.270736694335937500, core , 96.502075195312500000, gpu ,  0 , dram ,  23.653976440429687500, VMPEAK ,    8292 , time , 2705 
-compiler , hermes-malloc , testcase , array-findIndex , package , 127.351089477539062500, core , 96.568679809570312500, gpu ,  0 , dram ,  23.627334594726562500, VMPEAK ,    8292 , time , 2705 
-compiler , hermes-malloc , testcase , array-findIndex , package , 128.094238281250000000, core , 97.140350341796875000, gpu ,  0 , dram ,  23.786605834960937500, VMPEAK ,    8292 , time , 2722 
-compiler , hermes-malloc , testcase , array-findIndex , package , 127.725387573242187500, core , 96.908966064453125000, gpu ,  0 , dram ,  23.724685668945312500, VMPEAK ,    8292 , time , 2709 
-compiler , hermes-malloc , testcase , array-findIndex , package , 127.773330688476562500, core , 96.934387207031250000, gpu ,  0 , dram ,  23.688598632812500000, VMPEAK ,    8292 , time , 2710 
-compiler , hermes-malloc , testcase , array-findIndex , package , 127.010116577148437500, core , 96.381256103515625000, gpu ,  0 , dram ,  23.597183227539062500, VMPEAK ,    8292 , time , 2693 
-compiler , hermes-malloc , testcase , array-findIndex , package , 127.905487060546875000, core , 97.060745239257812500, gpu ,  0 , dram ,  23.686889648437500000, VMPEAK ,    8292 , time , 2711 
+ compiler , hermes-malloc , testcase , array-findIndex , package , 118.748168945312500000, core , 75.438507080078125000, gpu ,  0 , dram ,  15.397659301757812500, VMPEAK ,    8236 , time , 3000 
+compiler , hermes-malloc , testcase , array-findIndex , package , 118.297882080078125000, core , 75.174560546875000000, gpu ,  0 , dram ,  15.310058593750000000, VMPEAK ,    8236 , time , 2991 
+compiler , hermes-malloc , testcase , array-findIndex , package , 118.791793823242187500, core , 75.486877441406250000, gpu ,  0 , dram ,  15.263687133789062500, VMPEAK ,    8236 , time , 3000 
+compiler , hermes-malloc , testcase , array-findIndex , package , 119.361572265625000000, core , 75.869171142578125000, gpu ,  0 , dram ,  15.348342895507812500, VMPEAK ,    8236 , time , 3013 
+compiler , hermes-malloc , testcase , array-findIndex , package , 118.425964355468750000, core , 75.312377929687500000, gpu ,  0 , dram ,  15.298614501953125000, VMPEAK ,    8236 , time , 2987 
+compiler , hermes-malloc , testcase , array-findIndex , package , 118.744750976562500000, core , 75.541824340820312500, gpu ,  0 , dram ,  15.365005493164062500, VMPEAK ,    8236 , time , 2992 
+compiler , hermes-malloc , testcase , array-findIndex , package , 118.833648681640625000, core , 75.610900878906250000, gpu ,  0 , dram ,  15.425811767578125000, VMPEAK ,    8236 , time , 2991 
+compiler , hermes-malloc , testcase , array-findIndex , package , 118.804901123046875000, core , 75.631515502929687500, gpu ,  0 , dram ,  15.369918823242187500, VMPEAK ,    8236 , time , 2988 
+compiler , hermes-malloc , testcase , array-findIndex , package , 119.385116577148437500, core , 76.025543212890625000, gpu ,  0 , dram ,  15.470260620117187500, VMPEAK ,    8236 , time , 2999 
+compiler , hermes-malloc , testcase , array-findIndex , package , 119.334121704101562500, core , 76.023147583007812500, gpu ,  0 , dram ,  15.538024902343750000, VMPEAK ,    8236 , time , 2996 

@@ -1,11 +1,11 @@
 Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
- compiler , jerry-512k , testcase , double-linked-list , package , 643.209060668945312500, core , 485.090042114257812500, gpu ,  0 , dram ,  121.837005615234375000, VMPEAK ,    8292 , time , 13911 
-compiler , jerry-512k , testcase , double-linked-list , package , 633.571762084960937500, core , 478.291473388671875000, gpu ,  0 , dram ,  119.294265747070312500, VMPEAK ,    8292 , time , 13649 
-compiler , jerry-512k , testcase , double-linked-list , package , 645.834671020507812500, core , 487.744827270507812500, gpu ,  0 , dram ,  121.541671752929687500, VMPEAK ,    8292 , time , 13899 
-compiler , jerry-512k , testcase , double-linked-list , package , 637.354507446289062500, core , 481.434097290039062500, gpu ,  0 , dram ,  119.907135009765625000, VMPEAK ,    8292 , time , 13702 
-compiler , jerry-512k , testcase , double-linked-list , package , 649.178985595703125000, core , 490.428741455078125000, gpu ,  0 , dram ,  122.039566040039062500, VMPEAK ,    8292 , time , 13947 
-compiler , jerry-512k , testcase , double-linked-list , package , 639.307327270507812500, core , 483.064392089843750000, gpu ,  0 , dram ,  120.110534667968750000, VMPEAK ,    8292 , time , 13716 
-compiler , jerry-512k , testcase , double-linked-list , package , 635.503494262695312500, core , 480.158233642578125000, gpu ,  0 , dram ,  119.367401123046875000, VMPEAK ,    8292 , time , 13628 
-compiler , jerry-512k , testcase , double-linked-list , package , 657.702362060546875000, core , 496.947158813476562500, gpu ,  0 , dram ,  123.340026855468750000, VMPEAK ,    8292 , time , 14098 
-compiler , jerry-512k , testcase , double-linked-list , package , 646.099548339843750000, core , 488.316772460937500000, gpu ,  0 , dram ,  121.119308471679687500, VMPEAK ,    8292 , time , 13834 
-compiler , jerry-512k , testcase , double-linked-list , package , 649.313766479492187500, core , 490.799560546875000000, gpu ,  0 , dram ,  121.571090698242187500, VMPEAK ,    8292 , time , 13894 
+ compiler , jerry-512k , testcase , double-linked-list , package , 618.330856323242187500, core , 385.780395507812500000, gpu ,  0 , dram ,  82.038589477539062500, VMPEAK ,    8236 , time , 16084 
+compiler , jerry-512k , testcase , double-linked-list , package , 617.969970703125000000, core , 390.018478393554687500, gpu ,  0 , dram ,  80.053756713867187500, VMPEAK ,    8236 , time , 15737 
+compiler , jerry-512k , testcase , double-linked-list , package , 620.352798461914062500, core , 392.057968139648437500, gpu ,  0 , dram ,  80.325729370117187500, VMPEAK ,    8236 , time , 15744 
+compiler , jerry-512k , testcase , double-linked-list , package , 609.528533935546875000, core , 385.839416503906250000, gpu ,  0 , dram ,  78.440536499023437500, VMPEAK ,    8236 , time , 15405 
+compiler , jerry-512k , testcase , double-linked-list , package , 625.297103881835937500, core , 395.814788818359375000, gpu ,  0 , dram ,  79.860855102539062500, VMPEAK ,    8236 , time , 15782 
+compiler , jerry-512k , testcase , double-linked-list , package , 613.206054687500000000, core , 388.840637207031250000, gpu ,  0 , dram ,  77.807754516601562500, VMPEAK ,    8236 , time , 15420 
+compiler , jerry-512k , testcase , double-linked-list , package , 624.185653686523437500, core , 396.296371459960937500, gpu ,  0 , dram ,  79.522903442382812500, VMPEAK ,    8236 , time , 15687 
+compiler , jerry-512k , testcase , double-linked-list , package , 627.450592041015625000, core , 398.840148925781250000, gpu ,  0 , dram ,  80.494964599609375000, VMPEAK ,    8236 , time , 15730 
+compiler , jerry-512k , testcase , double-linked-list , package , 616.035949707031250000, core , 392.339309692382812500, gpu ,  0 , dram ,  78.730514526367187500, VMPEAK ,    8236 , time , 15387 
+compiler , jerry-512k , testcase , double-linked-list , package , 625.467803955078125000, core , 398.745635986328125000, gpu ,  0 , dram ,  79.680419921875000000, VMPEAK ,    8236 , time , 15579 

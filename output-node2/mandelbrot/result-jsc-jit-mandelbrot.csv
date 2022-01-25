@@ -1,11 +1,11 @@
 Compiler , , Test , , Package (J) , , CPU (J) , , GPU (J) , , DRAM (J) , , VMPEAK (KB) , , Time (ms) , 
- compiler , jsc , testcase , mandelbrot , package , 16.885025024414062500, core , 12.699279785156250000, gpu ,  0 , dram ,  3.167556762695312500, VMPEAK ,    8292 , time , 368 
-compiler , jsc , testcase , mandelbrot , package , 16.935989379882812500, core , 12.805084228515625000, gpu ,  0 , dram ,  3.194091796875000000, VMPEAK ,    8292 , time , 363 
-compiler , jsc , testcase , mandelbrot , package , 17.391708374023437500, core , 13.148361206054687500, gpu ,  0 , dram ,  3.247528076171875000, VMPEAK ,    8292 , time , 373 
-compiler , jsc , testcase , mandelbrot , package , 16.942291259765625000, core , 12.813461303710937500, gpu ,  0 , dram ,  3.176834106445312500, VMPEAK ,    8292 , time , 363 
-compiler , jsc , testcase , mandelbrot , package , 17.037689208984375000, core , 12.886062622070312500, gpu ,  0 , dram ,  3.167846679687500000, VMPEAK ,    8292 , time , 366 
-compiler , jsc , testcase , mandelbrot , package , 16.958084106445312500, core , 12.828582763671875000, gpu ,  0 , dram ,  3.176818847656250000, VMPEAK ,    8292 , time , 363 
-compiler , jsc , testcase , mandelbrot , package , 16.863372802734375000, core , 12.756988525390625000, gpu ,  0 , dram ,  3.132507324218750000, VMPEAK ,    8292 , time , 361 
-compiler , jsc , testcase , mandelbrot , package , 17.096679687500000000, core , 12.933013916015625000, gpu ,  0 , dram ,  3.185623168945312500, VMPEAK ,    8292 , time , 366 
-compiler , jsc , testcase , mandelbrot , package , 17.138763427734375000, core , 12.963470458984375000, gpu ,  0 , dram ,  3.211730957031250000, VMPEAK ,    8292 , time , 366 
-compiler , jsc , testcase , mandelbrot , package , 16.998611450195312500, core , 12.857894897460937500, gpu ,  0 , dram ,  3.176849365234375000, VMPEAK ,    8292 , time , 364 
+ compiler , jsc , testcase , mandelbrot , package , 18.748321533203125000, core , 8.355895996093750000, gpu ,  0 , dram ,  3.766632080078125000, VMPEAK ,    8236 , time , 719 
+compiler , jsc , testcase , mandelbrot , package , 16.643859863281250000, core , 10.469863891601562500, gpu ,  0 , dram ,  2.261581420898437500, VMPEAK ,    8236 , time , 428 
+compiler , jsc , testcase , mandelbrot , package , 16.275985717773437500, core , 10.367584228515625000, gpu ,  0 , dram ,  2.160903930664062500, VMPEAK ,    8236 , time , 408 
+compiler , jsc , testcase , mandelbrot , package , 16.471130371093750000, core , 10.488800048828125000, gpu ,  0 , dram ,  2.215438842773437500, VMPEAK ,    8236 , time , 414 
+compiler , jsc , testcase , mandelbrot , package , 16.221618652343750000, core , 10.338806152343750000, gpu ,  0 , dram ,  2.163970947265625000, VMPEAK ,    8236 , time , 405 
+compiler , jsc , testcase , mandelbrot , package , 16.500961303710937500, core , 10.516204833984375000, gpu ,  0 , dram ,  2.206069946289062500, VMPEAK ,    8236 , time , 413 
+compiler , jsc , testcase , mandelbrot , package , 16.514312744140625000, core , 10.515258789062500000, gpu ,  0 , dram ,  2.196182250976562500, VMPEAK ,    8236 , time , 414 
+compiler , jsc , testcase , mandelbrot , package , 16.349151611328125000, core , 10.422332763671875000, gpu ,  0 , dram ,  2.193496704101562500, VMPEAK ,    8236 , time , 409 
+compiler , jsc , testcase , mandelbrot , package , 16.362609863281250000, core , 10.433853149414062500, gpu ,  0 , dram ,  2.164703369140625000, VMPEAK ,    8236 , time , 410 
+compiler , jsc , testcase , mandelbrot , package , 16.453414916992187500, core , 10.496398925781250000, gpu ,  0 , dram ,  2.180130004882812500, VMPEAK ,    8236 , time , 411 
