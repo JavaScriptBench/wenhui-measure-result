@@ -19,9 +19,9 @@ touch ../output-node1/result-dram-energy.txt
 chmod 755 ../output-node1/result-dram-energy.txt
 ./run_dram_energy.sh output-node1 > ../output-node1/result-dram-energy.txt
 
-touch ../output-node1/result-mem.txt
-chmod 755 ../output-node1/result-mem.txt
-./run_mem.sh output-node1 > ../output-node1/result-mem.txt
+#touch ../output-node1/result-mem.txt
+#chmod 755 ../output-node1/result-mem.txt
+#./run_mem.sh output-node1 > ../output-node1/result-mem.txt
 
 touch ../output-node1/result-time.txt
 chmod 755 ../output-node1/result-time.txt
