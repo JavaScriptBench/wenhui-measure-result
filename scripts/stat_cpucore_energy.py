@@ -112,7 +112,7 @@ def delete_outliner_other(arr):
 arr = delete_outliner(cpucore)
 
 
-compiler = compiler.strip()
+
 bench = bench.strip()
 if infile.startswith('result-ch-jit'):
     compiler = 'ch-jit'
