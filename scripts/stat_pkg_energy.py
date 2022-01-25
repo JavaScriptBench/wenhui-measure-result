@@ -116,12 +116,54 @@ arr = delete_outliner(package)
 #delete_outliner(vmpeak)
 #delete_outliner(time)
 
-chunks = infile.split('-')
-compiler = compiler.strip()
-bench = bench.strip()
-if(compiler in ['ch', 'd8', 'js-24', 'js-52', 'jsc', 'js', 'node', 'rhino']):
-    compiler = compiler + '-' + chunks[2]
 
+bench = bench.strip()
+if infile.startswith('result-ch-jit'):
+    compiler = 'ch-jit'
+if infile.startswith('result-ch-nojit'):
+    compiler = 'ch-nojit'
+if infile.startswith('result-d8-jit'):
+    compiler = 'd8-jit'
+if infile.startswith('result-d8-nojit'):
+    compiler = 'd8-nojit'
+if infile.startswith('result-duk-nojit'):
+    compiler = 'duk'
+if infile.startswith('result-espruino-nojit'):
+    compiler = 'espruino'
+if infile.startswith('result-hermes-gengc-nojit'):
+    compiler = 'hermes-gengc'
+if infile.startswith('result-hermes-hades-nojit'):
+    compiler = 'hermes-hades'
+if infile.startswith('result-hermes-malloc-nojit'):
+    compiler = 'hermes-malloc'
+if infile.startswith('result-jerry-6m-nojit'):
+    compiler = 'jerry-6m'
+if infile.startswith('result-jerry-512k-nojit'):
+    compiler = 'jerry-512k'
+if infile.startswith('result-js-24-jit'):
+    compiler = 'js-24-jit'
+if infile.startswith('result-js-24-nojit'):
+    compiler = 'js-24-nojit'
+if infile.startswith('result-js-52-jit'):
+    compiler = 'js-52-jit'
+if infile.startswith('result-js-52-nojit'):
+    compiler = 'js-52-nojit'
+if infile.startswith('result-jsc-jit'):
+    compiler = 'jsc-jit'
+if infile.startswith('result-jsc-nojit'):
+    compiler = 'jsc-nojit'
+if infile.startswith('result-mujs-nojit'):
+    compiler = 'mujs'
+if infile.startswith('result-node-jit'):
+    compiler = 'node-jit'
+if infile.startswith('result-node-nojit'):
+    compiler = 'node-nojit'
+if infile.startswith('result-qjs-nojit'):
+    compiler = 'qjs'
+if infile.startswith('result-rhino-jit'):
+    compiler = 'rhino-jit'
+if infile.startswith('result-rhino-nojit'):
+    compiler = 'rhino-nojit'
 
 
 print(compiler, bench, sum(arr)/len(arr), min(arr), max(arr), np.var(arr), np.std(arr))
